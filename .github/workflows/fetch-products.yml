@@ -4,7 +4,6 @@ on:
   schedule:
     # Запуск каждый день в 00:00 UTC
     - cron: '0 0 * * *'
-  # Кнопка для ручного запуска во вкладке Actions
   workflow_dispatch:
 
 jobs:
@@ -20,26 +19,106 @@ jobs:
           CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
           WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
         run: |
-          # 1. Получаем access_token, используя ваш base64_header
-          TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
-            -H "Authorization: Basic ${BASE64_HEADER}" \
-            -d "grant_type=client_credentials&client_id=${CLIENT_ID}&scope=adv_products_website")
+          # 1. Получаем access_token от Admitad
+          # Удаляем возможные пробелы/переносы из BASE64_HEADER
+          CLEAN_BASE64=$(echo "${BASE64_HEADER}" | tr -d '\r\n ')
           
-          ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token')
+          TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
+            -H "Authorization: Basic ${CLEAN_BASE64}" \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d "grant_type=client_credentials&client_id=${CLIENT_ID}&scope=adv_products_website public_data")
+          
+          ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
 
-          # Проверка на случай ошибки авторизации
-          if [ "$ACCESS_TOKEN" == "null" ] || [ -z "$ACCESS_TOKEN" ]; then
-            echo "Ошибка авторизации Admitad API:"
-            echo $TOKEN_RESPONSE
+          # Проверка получения токена
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "❌ Ошибка авторизации Admitad API!"
+            echo "Ответ сервера: $TOKEN_RESPONSE"
             exit 1
           fi
 
-          # 2. Создаем директорию public (если еще нет) и запрашиваем товары
+          echo "✅ Токен успешно получен"
+
+          # 2. Создаем папку public и запрашиваем товары
           mkdir -p public
           
-          curl -s -X GET "https://api.admitad.com/ali_express/reward_list/?website=${WEBSITE_ID}&limit=50" \
-            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
-            -o public/products.json
+          # Выполняем запрос с проверкой HTTP-статуса
+          HTTP_STATUS=$(curl -s -o public/products.json -w "%{http_code}" \
+            -X GET "https://api.admitad.com/ali_express/reward_list/?website=${WEBSITE_ID}&limit=50" \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}")
+
+          if [ "$HTTP_STATUS" -ne 200 ]; then
+            echo "❌ Ошибка при запросе товаров! HTTP Status: $HTTP_STATUS"
+            echo "Ответ API:"
+            cat public/products.json
+            exit 1
+          fi
+
+          echo "✅ Товары успешно сохранены в public/products.json"
+
+      - name: Commit and Push updated products.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/products.json
+          git commit -m "chore: auto-update aliexpress products [skip ci]" || exit 0
+          git pushname: Update AliExpress Products
+
+on:
+  schedule:
+    # Запуск каждый день в 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch AliExpress Products from Admitad API
+        env:
+          BASE64_HEADER: ${{ secrets.ADMITAD_BASE64_HEADER }}
+          CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
+          WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
+        run: |
+          # 1. Получаем access_token от Admitad
+          # Удаляем возможные пробелы/переносы из BASE64_HEADER
+          CLEAN_BASE64=$(echo "${BASE64_HEADER}" | tr -d '\r\n ')
+          
+          TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
+            -H "Authorization: Basic ${CLEAN_BASE64}" \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d "grant_type=client_credentials&client_id=${CLIENT_ID}&scope=adv_products_website public_data")
+          
+          ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
+
+          # Проверка получения токена
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "❌ Ошибка авторизации Admitad API!"
+            echo "Ответ сервера: $TOKEN_RESPONSE"
+            exit 1
+          fi
+
+          echo "✅ Токен успешно получен"
+
+          # 2. Создаем папку public и запрашиваем товары
+          mkdir -p public
+          
+          # Выполняем запрос с проверкой HTTP-статуса
+          HTTP_STATUS=$(curl -s -o public/products.json -w "%{http_code}" \
+            -X GET "https://api.admitad.com/ali_express/reward_list/?website=${WEBSITE_ID}&limit=50" \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}")
+
+          if [ "$HTTP_STATUS" -ne 200 ]; then
+            echo "❌ Ошибка при запросе товаров! HTTP Status: $HTTP_STATUS"
+            echo "Ответ API:"
+            cat public/products.json
+            exit 1
+          fi
+
+          echo "✅ Товары успешно сохранены в public/products.json"
 
       - name: Commit and Push updated products.json
         run: |
