@@ -19,13 +19,13 @@ jobs:
           CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
           WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
         run: |
-          # 1. Получаем access_token от Admitad
+          # 1. Получаем access_token от Admitad без параметра scope
           CLEAN_BASE64=$(echo "${BASE64_HEADER}" | tr -d '\r\n ')
           
           TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
             -H "Authorization: Basic ${CLEAN_BASE64}" \
             -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "grant_type=client_credentials&client_id=${CLIENT_ID}&scope=adv_products_website public_data")
+            -d "grant_type=client_credentials&client_id=${CLIENT_ID}")
           
           ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
 
