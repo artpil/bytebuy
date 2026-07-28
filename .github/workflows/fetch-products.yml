@@ -15,18 +15,18 @@ jobs:
 
       - name: Fetch AliExpress Products from Admitad API
         env:
-          BASE64_HEADER: ${{ secrets.ADMITAD_BASE64_HEADER }}
-          CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
-          WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
+          ADMITAD_CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
+          ADMITAD_CLIENT_SECRET: ${{ secrets.ADMITAD_CLIENT_SECRET }}
+          ADMITAD_WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
         run: |
-          # 1. Получаем access_token от Admitad без параметра scope
-          CLEAN_BASE64=$(echo "${BASE64_HEADER}" | tr -d '\r\n ')
-          
+          # 1. Получаем access_token с необходимыми scope
           TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
-            -H "Authorization: Basic ${CLEAN_BASE64}" \
             -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "grant_type=client_credentials&client_id=${CLIENT_ID}")
-          
+            -d "grant_type=client_credentials" \
+            -d "client_id=${ADMITAD_CLIENT_ID}" \
+            -d "client_secret=${ADMITAD_CLIENT_SECRET}" \
+            -d "scope=aliexpress_commission")
+
           ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
 
           if [ -z "$ACCESS_TOKEN" ]; then
@@ -39,9 +39,10 @@ jobs:
 
           # 2. Создаем папку public и запрашиваем товары
           mkdir -p public
-          
+
+          # Используем правильный endpoint для получения товаров
           HTTP_STATUS=$(curl -s -o public/products.json -w "%{http_code}" \
-            -X GET "https://api.admitad.com/ali_express/reward_list/?website=${WEBSITE_ID}&limit=50" \
+            -X GET "https://api.admitad.com/aliexpress/products/?website_id=${ADMITAD_WEBSITE_ID}&limit=100" \
             -H "Authorization: Bearer ${ACCESS_TOKEN}")
 
           if [ "$HTTP_STATUS" -ne 200 ]; then
