@@ -15,17 +15,20 @@ jobs:
 
       - name: Fetch AliExpress Products from Admitad API
         env:
-          ADMITAD_CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
-          ADMITAD_CLIENT_SECRET: ${{ secrets.ADMITAD_CLIENT_SECRET }}
-          ADMITAD_WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
+          BASE64_HEADER: ${{ secrets.ADMITAD_BASE64_HEADER }}
+          CLIENT_ID: ${{ secrets.ADMITAD_CLIENT_ID }}
+          WEBSITE_ID: ${{ secrets.ADMITAD_WEBSITE_ID }}
         run: |
-          # 1. Получаем access_token с необходимыми scope
+          # 1. Очищаем base64 от скрытых пробелов/символов
+          CLEAN_BASE64=$(echo "${BASE64_HEADER}" | tr -d '\r\n ')
+          CLEAN_CLIENT_ID=$(echo "${CLIENT_ID}" | tr -d '\r\n ')
+          CLEAN_WEBSITE_ID=$(echo "${WEBSITE_ID}" | tr -d '\r\n ')
+
+          # 2. Запрашиваем access_token через Basic Auth
           TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
+            -H "Authorization: Basic ${CLEAN_BASE64}" \
             -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "grant_type=client_credentials" \
-            -d "client_id=${ADMITAD_CLIENT_ID}" \
-            -d "client_secret=${ADMITAD_CLIENT_SECRET}" \
-            -d "scope=aliexpress_commission")
+            -d "grant_type=client_credentials&client_id=${CLEAN_CLIENT_ID}")
 
           ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
 
@@ -35,14 +38,13 @@ jobs:
             exit 1
           fi
 
-          echo "✅ Токен успешно получен"
+          echo "✅ Токен успешно получен!"
 
-          # 2. Создаем папку public и запрашиваем товары
+          # 3. Создаем папку public и запрашиваем товары из Reward List
           mkdir -p public
 
-          # Используем правильный endpoint для получения товаров
           HTTP_STATUS=$(curl -s -o public/products.json -w "%{http_code}" \
-            -X GET "https://api.admitad.com/aliexpress/products/?website_id=${ADMITAD_WEBSITE_ID}&limit=100" \
+            -X GET "https://api.admitad.com/ali_express/reward_list/?website=${CLEAN_WEBSITE_ID}&limit=100" \
             -H "Authorization: Bearer ${ACCESS_TOKEN}")
 
           if [ "$HTTP_STATUS" -ne 200 ]; then
