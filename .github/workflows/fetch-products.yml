@@ -28,7 +28,7 @@ jobs:
           TOKEN_RESPONSE=$(curl -s -X POST https://api.admitad.com/token/ \
             -H "Authorization: Basic ${CLEAN_BASE64}" \
             -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "grant_type=client_credentials&client_id=${CLEAN_CLIENT_ID}")
+            -d "grant_type=client_credentials&client_id=${CLEAN_CLIENT_ID}&scope=НУЖНЫЙ_SCOPE_ДЛЯ_REWARD_LIST")
 
           ACCESS_TOKEN=$(echo $TOKEN_RESPONSE | jq -r '.access_token // empty')
 
