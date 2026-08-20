@@ -7,7 +7,8 @@
         "date": "2025-08-17",
         "readingTime": 8,
         "categories": ["3D Printing", "Tech Reviews"],
-        "featuredImage": "/articles/images/creality-k2-pro-0.jpg"
+        "featuredImage": ""
+        //"featuredImage": "/articles/images/creality-k2-pro-0.jpg"
     },
     {
         "id": "best-3d-printers-2025",
@@ -17,6 +18,7 @@
         "date": "2025-08-15",
         "readingTime": 12,
         "categories": ["3D Printing", "Top Lists"],
-        "featuredImage": "/articles/images/best-3d-printers.jpg"
+        "featuredImage": ""
+        //"featuredImage": "/articles/images/best-3d-printers.jpg"
     }
 ]
