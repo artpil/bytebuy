@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Указываем ссылку на динамический Sitemap
+Sitemap: https://bytebuy.store/sitemap.xml
