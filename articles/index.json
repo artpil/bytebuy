@@ -7,7 +7,7 @@
         "date": "2026-08-21",
         "readingTime": 6,
         "categories": ["Smart Home", "Buying Guides"],
-        "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-0._w500_.jpg"
+        "featuredImage": ""
     },
     {
         "id": "creality-k2-pro-combo-buying-guide",
@@ -17,7 +17,7 @@
         "date": "2026-08-18",
         "readingTime": 7,
         "categories": ["3D Printing", "Buying Guides"],
-        "featuredImage": "https://img.gkbcdn.com/s3/p/2025-08-28/Creality-K2-Combo-3D-Printer-530014-0.jpg"
+        "featuredImage": ""
     },
     {
         "id": "creality-k2-pro-combo",
@@ -27,7 +27,7 @@
         "date": "2025-08-17",
         "readingTime": 8,
         "categories": ["3D Printing", "Tech Reviews"],
-        "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-0._w500_.jpg"
+        "featuredImage": ""
     },
     {
         "id": "best-3d-printers-2025",
@@ -37,6 +37,6 @@
         "date": "2025-08-15",
         "readingTime": 12,
         "categories": ["3D Printing", "Top Lists"],
-        "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-0._w500_.jpg"
+        "featuredImage": ""
     }
 ]
