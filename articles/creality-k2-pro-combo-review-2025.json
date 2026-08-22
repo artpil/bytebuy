@@ -8,14 +8,14 @@
     "updatedAt": "2025-08-17",
     "author": "ByteBuy Team",
     "readingTime": 8,
-    "featuredImage": "./articles/images/creality-k2-pro.jpg",
+    "featuredImage": "/articles/images/creality-k2-pro.jpg",
     "categories": ["3D Printing", "Tech Reviews"],
     "tags": ["Creality", "3D printer", "multi-color", "2025"],
     "sections": [
         {
             "type": "intro",
             "content": "The Creality K2 Pro Combo is not just another 3D printer—it's a complete ecosystem designed for creators who demand both speed and precision. Packed with a massive 300×300×300 mm build volume, multi-color capabilities, and AI-driven automation, this machine promises to streamline your workflow like never before.",
-            "image": "./articles/images/creality-k2-pro-2.jpg"
+            "image": "/articles/images/creality-k2-pro-2.jpg"
         },
         {
             "type": "specs",
