@@ -8,13 +8,14 @@
     "updatedAt": "2026-08-21",
     "author": "ByteBuy Team",
     "readingTime": 6,
-    "featuredImage": "",
+    "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-2._w500_.jpg",
     "categories": ["Smart Home", "Buying Guides"],
     "tags": ["Narwal", "Freo Z10", "robot vacuum", "robot mop", "self-emptying"],
     "sections": [
         {
             "type": "intro",
-            "content": "Robot vacuums have gotten good at vacuuming. Robot mops that actually scrub instead of dragging a damp cloth around are still rarer — and machines that do both while emptying and washing themselves are rarer still. The Narwal Freo Z10 sits in that last category: a combined vacuum-and-mop with a base station that handles its own maintenance for weeks at a time. Here's what that actually looks like day to day, and who it makes sense for."
+            "content": "Robot vacuums have gotten good at vacuuming. Robot mops that actually scrub instead of dragging a damp cloth around are still rarer — and machines that do both while emptying and washing themselves are rarer still. The Narwal Freo Z10 sits in that last category: a combined vacuum-and-mop with a base station that handles its own maintenance for weeks at a time. Here's what that actually looks like day to day, and who it makes sense for.",
+            "image": "https://img.gkbcdn.com/p/2026-03-11/narwal-freo-z10-robot-vacuum-and-mop-with-accessories-pack-8bdc88-1773217667489._w500_.jpg"
         },
         {
             "type": "specs",
