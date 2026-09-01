@@ -1,0 +1,111 @@
+{
+    "id": "halo-knight-t102-review-2025",
+    "slug": "halo-knight-t102-electric-scooter-review-2025",
+    "title": "Halo Knight T102 Electric Scooter Review 2025: 1200W of Raw Power for Urban Explorers",
+    "metaDescription": "Detailed review of the Halo Knight T102 electric scooter: 1200W motor, 52V 21Ah battery, 45km range, 50km/h top speed, dual disc brakes, and full suspension.",
+    "template": "review",
+    "date": "2025-09-01",
+    "updatedAt": "2025-09-01",
+    "author": "ByteBuy Team",
+    "readingTime": 7,
+    "featuredImage": "https://img.gkbcdn.com/p/2025-04-01/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255-0._w500_.jpg",
+    "categories": ["Electric Scooters", "Tech Reviews"],
+    "tags": ["Halo Knight", "electric scooter", "commuting", "off-road", "2025"],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "The Halo Knight T102 positions itself as a compelling option in the mid-range electric scooter market, balancing high performance with a relatively accessible price point. It's a machine that clearly prioritizes power and stability, making it a suitable companion for both daily commutes and weekend explorations. With a 1200W motor, a substantial 52V 21Ah battery, and a robust suspension system, it promises to handle various terrains with ease.",
+            "image": "https://img.gkbcdn.com/p/2025-04-01/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255-2._w500_.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Key Specifications",
+            "items": [
+                { "label": "Motor", "value": "1200W Brushless" },
+                { "label": "Battery", "value": "52V 21Ah" },
+                { "label": "Max Range", "value": "45 km" },
+                { "label": "Max Speed", "value": "50 km/h" },
+                { "label": "Max Load", "value": "120 kg" },
+                { "label": "Climb Angle", "value": "20°" },
+                { "label": "Brakes", "value": "Front & Rear Disc Brakes" },
+                { "label": "Suspension", "value": "Front & Rear Spring" },
+                { "label": "Tires", "value": "10-inch Pneumatic" },
+                { "label": "Waterproof Rating", "value": "IP54" },
+                { "label": "Product Weight", "value": "31.5 kg" }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "Powerful 1200W motor with excellent torque (35 N·m)",
+                "Long-range 52V 21Ah battery (45km range)",
+                "Full suspension system for a smooth ride",
+                "Dual disc brakes for reliable stopping power",
+                "NFC key lock for enhanced security",
+                "Comprehensive lighting system with turn signals",
+                "IP54 water resistance for light rain protection"
+            ],
+            "cons": [
+                "Heavy build (31.5 kg) makes it less portable",
+                "Long charging time (5-7 hours)",
+                "TPU and flexible materials not supported by CFS"
+            ]
+        },
+        {
+            "type": "comparison",
+            "title": "Comparison with Competitors",
+            "products": [
+                {
+                    "name": "Halo Knight T102",
+                    "price": "$653.50",
+                    "motor": "1200W",
+                    "battery": "52V 21Ah",
+                    "range": "45 km",
+                    "speed": "50 km/h",
+                    "suspension": "Front & Rear",
+                    "link": "https://www.geekbuying.com/item/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255.html?admitad_uid=e487c0a8a7ea0ecfbba9718e45dd3fd5&utm_source=admitad&utm_content=2546223&clickid=e487c0a8a7ea0ecfbba9718e45dd3fd5"
+                },
+                {
+                    "name": "Xiaomi Mi Electric Scooter Pro 2",
+                    "price": "$499+",
+                    "motor": "600W",
+                    "battery": "42V 12.8Ah",
+                    "range": "45 km",
+                    "speed": "25 km/h",
+                    "suspension": "None",
+                    "link": "https://..."
+                },
+                {
+                    "name": "Segway Ninebot MAX G30",
+                    "price": "$799+",
+                    "motor": "700W",
+                    "battery": "36V 15.3Ah",
+                    "range": "65 km",
+                    "speed": "30 km/h",
+                    "suspension": "None",
+                    "link": "https://..."
+                },
+                {
+                    "name": "Kaabo Mantis 8",
+                    "price": "$1,199+",
+                    "motor": "1000W (Dual)",
+                    "battery": "48V 18.2Ah",
+                    "range": "45 km",
+                    "speed": "55 km/h",
+                    "suspension": "Front & Rear",
+                    "link": "https://..."
+                }
+            ]
+        },
+        {
+            "type": "buy-section",
+            "title": "Ready to Ride?",
+            "buttonText": "Check price on Geekbuying",
+            "buttonLink": "https://www.geekbuying.com/item/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255.html?admitad_uid=e487c0a8a7ea0ecfbba9718e45dd3fd5&utm_source=admitad&utm_content=2546223&clickid=e487c0a8a7ea0ecfbba9718e45dd3fd5"
+        },
+        {
+            "type": "conclusion",
+            "content": "The Halo Knight T102 is a performance-oriented electric scooter that offers substantial value for its price. With its powerful 1200W motor, long-range 52V 21Ah battery, robust build quality, and full suspension system, it is well-suited for users who prioritize power, ride comfort, and stability and are willing to manage a heavier scooter. If you're looking for a capable and versatile commuter that can handle various terrains without breaking the bank, the T102 is a fantastic choice. Its comprehensive lighting system and NFC security are welcome additions that enhance the overall riding experience."
+        }
+    ]
+}
