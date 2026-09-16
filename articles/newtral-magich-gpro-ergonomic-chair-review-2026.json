@@ -9,8 +9,17 @@
     "author": "ByteBuy Team",
     "readingTime": 7,
     "featuredImage": "https://img.gkbcdn.com/p/2025-12-03/newtral-magich-gpro-ergonomic-chair-with-footrest-gray-4fe8fe-1764757367472._w500_.jpg",
-    "categories": ["Furniture", "Tech Reviews"],
-    "tags": ["NEWTRAL", "MagicH-GPRO", "ergonomic chair", "office chair", "WFH setup"],
+    "categories": [
+        "Furniture",
+        "Tech Reviews"
+    ],
+    "tags": [
+        "NEWTRAL",
+        "MagicH-GPRO",
+        "ergonomic chair",
+        "office chair",
+        "WFH setup"
+    ],
     "sections": [
         {
             "type": "intro",
@@ -21,15 +30,42 @@
             "type": "specs",
             "title": "Key Specifications",
             "items": [
-                { "label": "Lumbar Support", "value": "Patented Auto-Following Mechanism with 3 Lockable Positions" },
-                { "label": "Headrest", "value": "5D Auto-Following (15 cm height, 51° angle adjustment)" },
-                { "label": "Armrests", "value": "4D Extended (height, depth, width, and 20° rotation)" },
-                { "label": "Recline Range", "value": "96° to 136° (4 lockable positions: 96°, 120°, 136°)" },
-                { "label": "Seat Adjustment", "value": "Seat height (44–52.5 cm) & Seat depth (37.5–47.5 cm)" },
-                { "label": "Seat Cushion", "value": "Divided-Stress-Zone High-Density Rebound Sponge" },
-                { "label": "Footrest", "value": "Foldable & Retractable" },
-                { "label": "Max Load Capacity", "value": "300 lbs (136 kg)" },
-                { "label": "Certifications", "value": "Class 4 SGS Gas Lift, BIFMA & EN1335" }
+                {
+                    "label": "Lumbar Support",
+                    "value": "Patented Auto-Following Mechanism with 3 Lockable Positions"
+                },
+                {
+                    "label": "Headrest",
+                    "value": "5D Auto-Following (15 cm height, 51° angle adjustment)"
+                },
+                {
+                    "label": "Armrests",
+                    "value": "4D Extended (height, depth, width, and 20° rotation)"
+                },
+                {
+                    "label": "Recline Range",
+                    "value": "96° to 136° (4 lockable positions: 96°, 120°, 136°)"
+                },
+                {
+                    "label": "Seat Adjustment",
+                    "value": "Seat height (44–52.5 cm) & Seat depth (37.5–47.5 cm)"
+                },
+                {
+                    "label": "Seat Cushion",
+                    "value": "Divided-Stress-Zone High-Density Rebound Sponge"
+                },
+                {
+                    "label": "Footrest",
+                    "value": "Foldable & Retractable"
+                },
+                {
+                    "label": "Max Load Capacity",
+                    "value": "300 lbs (136 kg)"
+                },
+                {
+                    "label": "Certifications",
+                    "value": "Class 4 SGS Gas Lift, BIFMA & EN1335"
+                }
             ]
         },
         {
@@ -75,6 +111,66 @@
             "title": "Where to Buy",
             "buttonText": "Check current price on Geekbuying",
             "buttonLink": "https://www.geekbuying.com/item/NEWTRAL-MagicH-GPRO-Ergonomic-Chair-with-Footrest-Gray-522830.html?admitad_uid=b41a70e8e116eee794b90d7a5d3ea912&utm_source=admitad&utm_content=2546223&clickid=b41a70e8e116eee794b90d7a5d3ea912"
+        },
+        {
+            "type": "products-section",
+            "title": "Related NEWTRAL Chairs & Accessories",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-522719",
+                    "title": "NEWTRAL MagicH-BPro Ergonomic Chair with Footrest, Auto-Following Backrest Headrest, Adaptive Lower Back Support, Adjustable Armrest, 4 Positions to Lock - Grey",
+                    "price": 349.99,
+                    "oldPrice": 399.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-11-09/NEWTRAL-MagicH-BPro-Ergonomic-Chair-with-Footrest-Grey-522719-0.jpg",
+                    "description": "NEWTRAL MagicH-BPro Ergonomic Chair with Footrest Grey",
+                    "category": "Smart Home & Garden",
+                    "vendor": "NEWTRAL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FNEWTRAL-MagicH-BPro-Ergonomic-Chair-with-Footrest-Grey-522719.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-522827",
+                    "title": "NEWTRAL LAPD Detachable Workstation Desktop for MagicH-BP/MagicH-BPro Ergonomic Chair - Grey",
+                    "price": 56.276,
+                    "oldPrice": 69.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-11-16/NEWTRAL-LAPD-Detachable-Workstation-Desktop-Grey-522827-0.jpg",
+                    "description": "NEWTRAL LAPD Detachable Workstation Desktop for MagicH-BP/MagicH-BPro Ergonomic Chair - Grey",
+                    "category": "Smart Home & Garden",
+                    "vendor": "NEWTRAL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FNEWTRAL-LAPD-Detachable-Workstation-Desktop-Grey-522827.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-522830",
+                    "title": "NEWTRAL MagicH-GPRO Ergonomic Chair with Footrest, Auto-Following Backrest Headrest, Adaptive Lower Back Support, Adjustable Armrest, 3 Positions to Lock - Gray",
+                    "price": 302.826,
+                    "oldPrice": 499.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-12-03/newtral-magich-gpro-ergonomic-chair-with-footrest-gray-4fe8fe-1764757367472.jpg",
+                    "description": "NEWTRAL MagicH-GPRO Ergonomic Chair with Footrest Gray",
+                    "category": "Smart Home & Garden",
+                    "vendor": "NEWTRAL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FNEWTRAL-MagicH-GPRO-Ergonomic-Chair-with-Footrest-Gray-522830.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-524901",
+                    "title": "NEWTRAL MagicH-GPro Ergonomic Chair with Footrest + Detachable Workstation Desktop, Gray",
+                    "price": 359.113,
+                    "oldPrice": 499.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-12-03/newtral-magich-gpro-ergonomic-chair-with-footrest-and-desktop-gray-860231-1764758102107.jpg",
+                    "description": "NEWTRAL MagicH-GPro Ergonomic Chair with Footrest + Detachable Workstation Desktop, Gray",
+                    "category": "Smart Home & Garden",
+                    "vendor": "NEWTRAL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FNEWTRAL-MagicH-GPro-Ergonomic-Chair-with-Footrest-and-Desktop-Gray-524901.html",
+                    "source": "geekbuying"
+                }
+            ]
         },
         {
             "type": "conclusion",

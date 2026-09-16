@@ -9,8 +9,17 @@
     "author": "ByteBuy Team",
     "readingTime": 6,
     "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-2._w500_.jpg",
-    "categories": ["Smart Home", "Buying Guides"],
-    "tags": ["Narwal", "Freo Z10", "robot vacuum", "robot mop", "self-emptying"],
+    "categories": [
+        "Smart Home",
+        "Buying Guides"
+    ],
+    "tags": [
+        "Narwal",
+        "Freo Z10",
+        "robot vacuum",
+        "robot mop",
+        "self-emptying"
+    ],
     "sections": [
         {
             "type": "intro",
@@ -21,14 +30,38 @@
             "type": "specs",
             "title": "Key Specifications",
             "items": [
-                { "label": "Suction Power", "value": "15,000 Pa" },
-                { "label": "Mopping System", "value": "Dual spinning mops, 8N downward pressure" },
-                { "label": "Navigation", "value": "LiDAR 4.0 + AI mapping" },
-                { "label": "Carpet Handling", "value": "Auto mop-lift on carpet detection" },
-                { "label": "Base Station", "value": "Self-emptying + hot-water mop wash + auto-dry" },
-                { "label": "Dust Bag Capacity", "value": "2.5 L — up to 120 days" },
-                { "label": "Hair Tangling", "value": "Certified tangle-free roller brush" },
-                { "label": "Color", "value": "White" }
+                {
+                    "label": "Suction Power",
+                    "value": "15,000 Pa"
+                },
+                {
+                    "label": "Mopping System",
+                    "value": "Dual spinning mops, 8N downward pressure"
+                },
+                {
+                    "label": "Navigation",
+                    "value": "LiDAR 4.0 + AI mapping"
+                },
+                {
+                    "label": "Carpet Handling",
+                    "value": "Auto mop-lift on carpet detection"
+                },
+                {
+                    "label": "Base Station",
+                    "value": "Self-emptying + hot-water mop wash + auto-dry"
+                },
+                {
+                    "label": "Dust Bag Capacity",
+                    "value": "2.5 L — up to 120 days"
+                },
+                {
+                    "label": "Hair Tangling",
+                    "value": "Certified tangle-free roller brush"
+                },
+                {
+                    "label": "Color",
+                    "value": "White"
+                }
             ]
         },
         {
@@ -79,6 +112,66 @@
             "buttonText": "Check current price on Geekbuying",
             "buttonLink": "https://www.geekbuying.com/item/Narwal-Freo-Z10-Robot-Vacuum-and-Mop-White-528804.html?admitad_uid=8ba5989ba019e18277ae213135020336&utm_source=admitad&utm_content=2546223&clickid=8ba5989ba019e18277ae213135020336",
             "disclosure": "This is an affiliate link — if you buy through it, ByteBuy may earn a commission at no extra cost to you. It doesn't affect the price you pay or the opinions above."
+        },
+        {
+            "type": "products-section",
+            "title": "Related Robot Vacuums",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-497718",
+                    "title": "Liectroux C30B Robot Vacuum Cleaner 6000Pa Suction with AI Map Navigation 2500mAh Battery Smart Partition Electric Water Tank APP Control - Black",
+                    "price": 135.078,
+                    "oldPrice": 299.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-11-08/liectroux-c30b-robot-vacuum-cleaner-6000pa-suction-55bcfc-1699408548065.jpg",
+                    "description": "Liectroux C30B Robot Vacuum Cleaner 6000Pa Suction",
+                    "category": "Smart Home & Garden",
+                    "vendor": "Liectroux",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLiectroux-C30B-Robot-Vacuum-Cleaner-6000Pa-Suction-497718.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-521633",
+                    "title": "Liectroux X6 Robot Vacuum Cleaner, 6500Pa Suction, LDS Laser Navigation, 235ml Water Tank, 400ml Dustbin, 5 Maps Saved, 2600mAh Battery, App/Voice Control",
+                    "price": 167.736,
+                    "oldPrice": 329.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-11-08/liectroux-x6-robot-vacuum-cleaner-4bd9d0-1699408115021.jpg",
+                    "description": "Liectroux X6 Robot Vacuum Cleaner",
+                    "category": "Smart Home & Garden",
+                    "vendor": "Liectroux",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLiectroux-X6-Robot-Vacuum-Cleaner-521633.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-527545",
+                    "title": "Liectroux M70 Pro Lidar Robot Vacuum Cleaner with Self-emptying Dustbin, Multi-floor Map Storage, 6500Pa Strong Suction, 3200mAh Battery, Max. 175min Runtime, Smart App & Voice Control, 3L Dust Bag, Black",
+                    "price": 235.281,
+                    "oldPrice": 300.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-02-06/Liectroux-M70-Pro-Lidar-Robot-Vacuum-with-Self-emptying-Dustbin-Black-527545-0.jpg",
+                    "description": "Liectroux M70 Pro Lidar Robot Vacuum with Self-emptying Dustbin Black",
+                    "category": "Smart Home & Garden",
+                    "vendor": "Liectroux",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLiectroux-M70-Pro-Lidar-Robot-Vacuum-with-Self-emptying-Dustbin-Black-527545.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-528022",
+                    "title": "Teendow D20S MAX+ 2in1 Robot Vacuum Cleaner & Pet Grooming Tool, 6000Pa Strong Suction, 70 Days Hands-Free Cleaning, 3L Dust Bag, PreciSense LiDAR Navigation, 5000mAh Battery, Ideal for Pet Owners",
+                    "price": 235.281,
+                    "oldPrice": 449,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-03-14/Teendow-D20S-MAX--2in1-Robot-Vacuum-Cleaner---Pet-Grooming-Tool-528022-0.jpg",
+                    "description": "Teendow D20S MAX+ 2in1 Robot Vacuum Cleaner & Pet Grooming Tool",
+                    "category": "Smart Home & Garden",
+                    "vendor": "Teendow",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FTeendow-D20S-MAX-2in1-Robot-Vacuum-Cleaner-Pet-Grooming-Tool-528022.html",
+                    "source": "geekbuying"
+                }
+            ]
         },
         {
             "type": "conclusion",
