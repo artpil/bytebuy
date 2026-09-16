@@ -1,5 +1,18 @@
 [
     {
+        "id": "tronsmart-tws-earbuds-lineup",
+        "slug": "tronsmart-tws-earbuds-lineup-2026",
+        "title": "Tronsmart TWS Earbuds & Headphones Review: The Full Lineup Compared",
+        "metaDescription": "Tronsmart wireless audio lineup reviewed: the Sounfii R4 TWS earbuds with ENC call noise reduction and the SOUNFII Q20S hybrid ANC headphones — which one actually fits your use case.",
+        "date": "2026-09-16",
+        "readingTime": 5,
+        "categories": [
+            "Audio",
+            "Tech Reviews"
+        ],
+        "featuredImage": "https://img.gkbcdn.com/s3/p/2024-03-26/66355ae64dc94768b9b6deeb80e7d0c6-523979-3.jpg"
+    },
+    {
         "id": "mini-pc-comparison-guide",
         "slug": "mini-pc-comparison-guide-2026",
         "title": "Mini PC Buying Guide 2026: How Are They Actually Different From Each Other?",
@@ -19,7 +32,10 @@
         "metaDescription": "Detailed review of the A68Designer Armrest Office Chair: oversized seating cushion, adjustable swivel wheels, ergonomic posture support, high-density foam, and budget comparison.",
         "date": "2026-09-11",
         "readingTime": 6,
-        "categories": ["Furniture", "Tech Reviews"],
+        "categories": [
+            "Furniture",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://ae-pic-a1.aliexpress-media.com/kf/S61a5e3831c4c48318c45f4cc9178bb8eW.jpg"
     },
     {
@@ -29,7 +45,10 @@
         "metaDescription": "In-depth FMART W6 window cleaning robot review: 3800Pa suction power, dual ultrasonic water spray, AI edge detection sensors, app control, and comparison with competitors.",
         "date": "2026-09-02",
         "readingTime": 6,
-        "categories": ["Smart Home", "Tech Reviews"],
+        "categories": [
+            "Smart Home",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2026-03-03/FMART-W6-Window-Cleaner-Robot-White-531124-0._p1_.jpg"
     },
     {
@@ -39,7 +58,10 @@
         "metaDescription": "In-depth Ultenic U18 PowerPro review: 600W motor, 55kPa high suction power, GreenEye LED dust detection, bendable wand, self-standing design, and comparison.",
         "date": "2026-09-02",
         "readingTime": 7,
-        "categories": ["Smart Home", "Tech Reviews"],
+        "categories": [
+            "Smart Home",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2026-06-11/Ultenic-U18-Power-Pro-Cordless-Vacuum-Cleaner-531622-0._w500_.jpg"
     },
     {
@@ -49,7 +71,10 @@
         "metaDescription": "NEWTRAL MagicH-GPRO ergonomic chair review: Patented auto-following lumbar support, 5D headrest, 4D armrests, foldable footrest, and 136° recline.",
         "date": "2026-08-24",
         "readingTime": 7,
-        "categories": ["Furniture", "Tech Reviews"],
+        "categories": [
+            "Furniture",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-12-03/newtral-magich-gpro-ergonomic-chair-with-footrest-gray-a2d707-1764757369005._w500_.jpg"
     },
     {
@@ -59,7 +84,10 @@
         "metaDescription": "Narwal Freo Z10 review: 15,000Pa suction, spinning mop system, hot-water self-cleaning base, and 120-day self-emptying. Who it's actually good for.",
         "date": "2026-08-21",
         "readingTime": 6,
-        "categories": ["Smart Home", "Buying Guides"],
+        "categories": [
+            "Smart Home",
+            "Buying Guides"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-2._w500_.jpg"
     },
     {
@@ -69,7 +97,10 @@
         "metaDescription": "Detailed review of the Halo Knight T102 electric scooter: 1200W motor, 52V 21Ah battery, 45km range, 50km/h top speed, dual disc brakes, and full suspension.",
         "date": "2025-09-01",
         "readingTime": 7,
-        "categories": ["Electric Scooters", "Tech Reviews"],
+        "categories": [
+            "Electric Scooters",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-04-01/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255-0._w500_.jpg"
     },
     {
@@ -79,7 +110,10 @@
         "metaDescription": "Detailed review of the Creality K2 Pro Combo 3D printer: 300×300×300 mm build volume, 600 mm/s speed, 16-color printing, and AI calibration.",
         "date": "2025-08-17",
         "readingTime": 8,
-        "categories": ["3D Printing", "Tech Reviews"],
+        "categories": [
+            "3D Printing",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-08-28/Creality-K2-Combo-3D-Printer-530014-10._w500_.jpg"
     }
 ]
