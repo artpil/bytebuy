@@ -1,0 +1,162 @@
+{
+    "id": "portable-power-stations-solar-panels-guide",
+    "slug": "portable-power-stations-solar-panels-guide-2026",
+    "title": "Portable Power Stations & Solar Panels: A Practical Buying Guide",
+    "metaDescription": "How to choose a portable power station for home backup or off-grid use, when to add a solar panel, and how to size capacity to what you actually need to run.",
+    "template": "guide",
+    "date": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "author": "ByteBuy Team",
+    "readingTime": 7,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2025-01-23/fossibot-f2400-portable-power-station---sp200-solar-panel-4d7b05-1737601510321.jpeg",
+    "categories": [
+        "Outdoor & Power",
+        "Buying Guides"
+    ],
+    "tags": [
+        "portable power station",
+        "solar panel",
+        "LiFePO4",
+        "home backup",
+        "off-grid"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "A portable power station is a big rechargeable battery with regular AC outlets built in — plug it in at home, run it down when the power goes out or when you're off-grid, then recharge it from a wall socket, a car, or a solar panel. The confusing part is sizing: capacity (Wh) tells you how long it lasts, output (W) tells you what it can actually power at once, and neither number alone tells you if a unit fits your situation. This guide covers how to size one correctly, and when adding a solar panel is actually worth it versus just wall-charging it.",
+            "image": "https://img.gkbcdn.com/s3/p/2025-01-23/fossibot-f2400-portable-power-station---sp200-solar-panel-4d7b05-1737601510321.jpeg"
+        },
+        {
+            "type": "specs",
+            "title": "How to Read the Spec Sheet",
+            "items": [
+                {
+                    "label": "Capacity (Wh)",
+                    "value": "How much total energy it stores — determines runtime, not power"
+                },
+                {
+                    "label": "AC Output (W)",
+                    "value": "How much you can draw at once — must exceed your device's wattage, including startup surge"
+                },
+                {
+                    "label": "Battery Chemistry",
+                    "value": "LiFePO4 (most current models) — far more charge cycles than older lithium-ion"
+                },
+                {
+                    "label": "Recharge Time (AC)",
+                    "value": "1–2 hours on fast-charging models — much longer on budget units"
+                },
+                {
+                    "label": "Solar Input (W)",
+                    "value": "Max wattage a panel can feed in — pairing a panel above this cap wastes its extra output"
+                },
+                {
+                    "label": "Expandability",
+                    "value": "Some models take add-on battery packs to grow capacity later without buying a second unit"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "LiFePO4 batteries in current models handle thousands of charge cycles — this is no longer the fire-hazard-prone lithium-ion of a decade ago",
+                "Fast AC charging (1–2 hours to full on higher-end units) means you're not waiting overnight before it's usable again",
+                "A genuinely useful backup for internet routers, fridges on short outages, medical devices, and CPAP machines — not just camping gear",
+                "Modular systems let you add expansion batteries later instead of buying a second, separate unit",
+                "Solar input support means it can slowly refill during a multi-day outage with no grid power at all"
+            ],
+            "cons": [
+                "Solar charging alone is slow — a single 400W panel in good sun takes many hours to refill a 2000Wh+ battery, it's a supplement, not a fast-charge method",
+                "Higher-capacity units (5000Wh+) are heavy, some over 50kg — factor in whether you actually need to move it, or if it'll live permanently in one spot",
+                "AC output wattage, not capacity, is what determines if it can even start a fridge or space heater — check surge wattage, not just running wattage",
+                "Panels and expansion batteries are usually sold separately from the base unit, so the sticker price is rarely the full system cost"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "Power Stations & Solar Panels Covered Here",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-522390",
+                    "title": "FOSSiBOT F800 Portable Power Station, 512Wh LiFePO4 Solar Generator, 800W AC Output, 200W Max Solar Input, 8 Outlets, LED Light - Black",
+                    "price": 299,
+                    "oldPrice": 359,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-10-12/FOSSiBOT-F800-Portable-Power-Station-Black-522390-0.jpg",
+                    "description": "FOSSiBOT F800 Portable Power Station Black",
+                    "category": "Outdoor Generators & Portable Power",
+                    "vendor": "FOSSiBOT",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FFOSSiBOT-F800-Portable-Power-Station-Black-522390.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-527781",
+                    "title": "OUKITEL P1000 PLUS Portable Power Station, 1800W 1024Wh Solar Generator with LiFePO4 Battery, Fast Charging, Smart App Control for Outdoor, RV, Home Backup, and Emergency Power",
+                    "price": 505.46,
+                    "oldPrice": 599.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-02-26/OUKITEL-P1000-PLUS-Portable-Power-Station-1800W-1024Wh-527781-0.jpg",
+                    "description": "OUKITEL P1000 PLUS Portable Power Station 1800W 1024Wh",
+                    "category": "Outdoor Generators & Portable Power",
+                    "vendor": "OUKITEL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FOUKITEL-P1000-PLUS-Portable-Power-Station-1800W-1024Wh-527781.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-519095",
+                    "title": "FOSSiBOT F2400 Portable Power Station + FOSSiBOT SP200 18V 200W Foldable Solar Panel, 2048Wh/640000mAh LiFePO4 Battery, 2400W(4600W Peak) Solar Generator, 3xAC RV Car USB Type-C QC3.0 PD DC5521 Pure Sine Wave Full Outlets, 1.5 Hours Fast Charging",
+                    "price": 1045.818,
+                    "oldPrice": 1980.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-01-23/fossibot-f2400-portable-power-station---sp200-solar-panel-4d7b05-1737601510321.jpeg",
+                    "description": "FOSSiBOT F2400 Portable Power Station + SP200 Solar Panel",
+                    "category": "Outdoor Generators & Portable Power",
+                    "vendor": "FOSSiBOT",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FFOSSiBOT-F2400-Portable-Power-Station-SP200-Solar-Panel-519095.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-519776",
+                    "title": "OUKITEL PV400 400W Foldable Portable Solar Panel with Kickstand, 23% Energy Conversion Rate, IP65 Waterproof",
+                    "price": 589,
+                    "oldPrice": 683.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-03-10/OUKITEL-PV400-400W-Foldable-Portable-Solar-Panel-519776-0.jpg",
+                    "description": "OUKITEL PV400 400W Foldable Portable Solar Panel with Kickstand, 23% Energy Conversion Rate, IP65 Waterproof",
+                    "category": "Outdoor Generators & Portable Power",
+                    "vendor": "OUKITEL",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FOUKITEL-PV400-400W-Foldable-Portable-Solar-Panel-519776.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Common Questions",
+            "items": [
+                {
+                    "question": "Is a portable power station worth it for home power outages?",
+                    "answer": "For short-to-medium outages (a few hours to a day), yes — a station in the 1000-2500Wh range can keep a router, some lights, a laptop, and a fridge running intermittently. For multi-day outages you either need a much larger capacity (5000Wh+) or a way to keep recharging it, which is where a solar panel or a car becomes relevant rather than optional."
+                },
+                {
+                    "question": "How do I choose a solar panel to go with a power station?",
+                    "answer": "Match the panel's rated wattage to the station's max solar input spec — pairing a panel bigger than that cap doesn't add extra charging speed. For most 1000-2000Wh stations, a single 200-400W foldable panel is a reasonable match. If you're relying on solar as your main charging method rather than a backup to grid power, plan for real-world output being roughly 60-70% of the panel's rated wattage depending on sun and angle."
+                },
+                {
+                    "question": "What size power station do I actually need?",
+                    "answer": "Add up the wattage of what you want to run at once for the output requirement, then multiply by how many hours you want to run it for the capacity requirement. A CPAP machine and a router pulling roughly 100W combined for 8 hours needs about 800Wh of capacity — that's an F800-class unit, not a 2000Wh+ one. Oversizing costs money and weight; undersizing means it dies mid-outage."
+                },
+                {
+                    "question": "LiFePO4 vs regular lithium-ion — does it matter which one I buy?",
+                    "answer": "For a power station kept around for occasional or emergency use, yes, it's worth checking for. LiFePO4 batteries handle several times more full charge cycles before capacity degrades, run cooler, and are considered safer for long-term storage at partial charge. Most current mid-to-high-end power stations, including the ones in this guide, already use LiFePO4 — it's the older or ultra-budget models where you still need to check."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Sizing a power station comes down to two numbers you actually need to calculate — total wattage of what you'll run, and how many hours you need it to last — not the biggest capacity number on the page. An entry unit like the F800 covers short outages and small devices; something in the 1000-2000Wh range with a matched solar panel covers a genuine multi-day backup plan without needing a whole-home generator. Buy for the outage you're actually likely to have, not the worst-case one."
+        }
+    ]
+}
