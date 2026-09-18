@@ -1,5 +1,5 @@
 {
-    "id": "creality-k2-pro-combo-review-2025",
+    "id": "creality-k2-pro-combo",
     "slug": "creality-k2-pro-combo-review-2025",
     "title": "Creality K2 Pro Combo Review 2025 – Is This the Ultimate Multi-Color 3D Printer?",
     "metaDescription": "Detailed review of the Creality K2 Pro Combo 3D printer: 300×300×300 mm build volume, 600 mm/s speed, 16-color printing, and AI calibration.",
@@ -9,8 +9,16 @@
     "author": "ByteBuy Team",
     "readingTime": 8,
     "featuredImage": "https://img.gkbcdn.com/p/2025-08-28/Creality-K2-Combo-3D-Printer-530014-10._w500_.jpg",
-    "categories": ["3D Printing", "Tech Reviews"],
-    "tags": ["Creality", "3D printer", "multi-color", "2025"],
+    "categories": [
+        "3D Printing",
+        "Tech Reviews"
+    ],
+    "tags": [
+        "Creality",
+        "3D printer",
+        "multi-color",
+        "2025"
+    ],
     "sections": [
         {
             "type": "intro",
@@ -21,14 +29,38 @@
             "type": "specs",
             "title": "Key Specifications",
             "items": [
-                { "label": "Build Volume", "value": "300×300×300 mm" },
-                { "label": "Max Speed", "value": "600 mm/s" },
-                { "label": "Acceleration", "value": "20,000 mm/s²" },
-                { "label": "Multi-Color", "value": "Up to 16 colors (CFS)" },
-                { "label": "Nozzle Temperature", "value": "≤ 300°C" },
-                { "label": "Heatbed Temperature", "value": "≤ 110°C" },
-                { "label": "Chamber Temperature", "value": "≤ 60°C" },
-                { "label": "Supported Materials", "value": "PLA, ABS, PETG, ASA, PA-CF" }
+                {
+                    "label": "Build Volume",
+                    "value": "300×300×300 mm"
+                },
+                {
+                    "label": "Max Speed",
+                    "value": "600 mm/s"
+                },
+                {
+                    "label": "Acceleration",
+                    "value": "20,000 mm/s²"
+                },
+                {
+                    "label": "Multi-Color",
+                    "value": "Up to 16 colors (CFS)"
+                },
+                {
+                    "label": "Nozzle Temperature",
+                    "value": "≤ 300°C"
+                },
+                {
+                    "label": "Heatbed Temperature",
+                    "value": "≤ 110°C"
+                },
+                {
+                    "label": "Chamber Temperature",
+                    "value": "≤ 60°C"
+                },
+                {
+                    "label": "Supported Materials",
+                    "value": "PLA, ABS, PETG, ASA, PA-CF"
+                }
             ]
         },
         {
@@ -58,7 +90,7 @@
                     "buildVolume": "300×300×300 mm",
                     "speed": "600 mm/s",
                     "multiColor": "16 colors",
-                    "link": "https://www.geekbuying.com/item/Creality-K2-Combo-3D-Printer-530167.html?admitad_uid=72ee4ae32ee537eebf96beb4af1acb93&utm_source=admitad&utm_content=2546223&clickid=72ee4ae32ee537eebf96beb4af1acb93"
+                    "link": "https://www.geekbuying.com/item/Creality-K2-Pro-Combo-3D-Printer-529949.html?admitad_uid=72ee4ae32ee537eebf96beb4af1acb93&utm_source=admitad&utm_content=2546223&clickid=72ee4ae32ee537eebf96beb4af1acb93"
                 },
                 {
                     "name": "Bambu Lab X1C",
@@ -82,7 +114,7 @@
             "type": "buy-section",
             "title": "Ready to Buy?",
             "buttonText": "Check price on Geekbuying",
-            "buttonLink": "https://www.geekbuying.com/item/Creality-K2-Combo-3D-Printer-530167.html?admitad_uid=72ee4ae32ee537eebf96beb4af1acb93&utm_source=admitad&utm_content=2546223&clickid=72ee4ae32ee537eebf96beb4af1acb93"
+            "buttonLink": "https://www.geekbuying.com/item/Creality-K2-Pro-Combo-3D-Printer-529949.html?admitad_uid=72ee4ae32ee537eebf96beb4af1acb93&utm_source=admitad&utm_content=2546223&clickid=72ee4ae32ee537eebf96beb4af1acb93"
         },
         {
             "type": "conclusion",
