@@ -1,0 +1,162 @@
+{
+    "id": "mechanical-keyboard-for-beginners",
+    "slug": "mechanical-keyboard-for-beginners-2026",
+    "title": "Mechanical Keyboards for Beginners: Layout Sizes and Jargon Explained",
+    "metaDescription": "A no-nonsense guide to buying your first mechanical keyboard: what 65%, 75%, 80%, and full-size layouts actually mean, plus hot-swap and gasket mount explained in plain terms.",
+    "template": "guide",
+    "date": "2026-09-20",
+    "updatedAt": "2026-09-20",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2026-03-12/ad8ad12a95544dd3a331dcf8fea33f19-531180-0.jpg",
+    "categories": [
+        "Peripherals",
+        "Buying Guides"
+    ],
+    "tags": [
+        "mechanical keyboard",
+        "beginner guide",
+        "hot-swap",
+        "gasket mount",
+        "keyboard layout"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "Mechanical keyboard listings throw a lot of jargon at first-time buyers — 65%, gasket mount, hot-swappable, linear switch — before ever explaining what any of it means for how the keyboard actually feels to type on. None of it is complicated once it's translated out of enthusiast-forum language. This guide covers the two decisions that actually matter for a first board: how much of the keyboard you need physically present, and whether you want the option to change switches later without soldering.",
+            "image": "https://img.gkbcdn.com/s3/p/2026-03-12/ad8ad12a95544dd3a331dcf8fea33f19-531180-0.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Layout Sizes, Translated",
+            "items": [
+                {
+                    "label": "Full-size (104-key)",
+                    "value": "Everything — number pad, function row, arrow cluster. Widest, most familiar to office/Excel users"
+                },
+                {
+                    "label": "80% (Tenkeyless / TKL)",
+                    "value": "Drops the number pad. Frees up mouse room; keeps function row and arrows"
+                },
+                {
+                    "label": "75% Layout",
+                    "value": "Like 80% but keys pulled closer together — smaller footprint, same key count roughly"
+                },
+                {
+                    "label": "65% Layout",
+                    "value": "Drops function row too, keeps arrows — compact desk footprint, still usable for most typing/gaming"
+                },
+                {
+                    "label": "Hot-Swappable",
+                    "value": "Switches pull out and swap without soldering — change the feel later without buying a new board"
+                },
+                {
+                    "label": "Gasket Mount",
+                    "value": "The plate floats on foam gaskets instead of screwing directly to the case — softer, quieter, more cushioned keystroke feel"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "Hot-swap sockets mean you can try a different switch feel for under $20 in replacement switches instead of buying a whole new keyboard",
+                "Gasket mount construction is now common even at sub-$100 price points — a feature that used to be a $150+ enthusiast-only extra a few years ago",
+                "Tri-mode connectivity (2.4G/Bluetooth/USB-C) on nearly every current model means one keyboard works across a desktop, a laptop, and a tablet without re-pairing",
+                "Compact layouts (65%/75%) genuinely help desk space and reduce mouse-arm reach distance, which matters more than it sounds for long sessions",
+                "PBT keycaps (standard on most of these) resist the shiny, worn look that cheaper ABS keycaps develop within months"
+            ],
+            "cons": [
+                "Going smaller than 75% means giving up dedicated function keys and sometimes the number pad permanently — fine for most typing, a real limitation for spreadsheet-heavy work",
+                "Linear switches (the default hot-swap option on most of these) are smooth but silent-feeling with no tactile bump — some beginners actually prefer a tactile switch and don't realize it until they've already bought linear",
+                "RGB and LCD screens look good on the listing photos but add nothing to typing feel — don't let them be the deciding factor over layout and switch feel",
+                "A cheap first keyboard from an unfamiliar brand can still be a fine way to learn what you like before spending more on a known enthusiast brand"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "One Keyboard Per Layout Size",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-531172",
+                    "title": "AULA F108 Pro Tri-Mode Wireless Mechanical Keyboard, 104-Key Gasket Mount, Hot-Swappable LEOBOG Graywood V3 Linear Switch, 1.14-Inch LCD Screen, RGB Backlit, 8000mAh Battery - Gradient Gray",
+                    "price": 59,
+                    "oldPrice": 79.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-03-11/adc935f5b3fb4bae8f382c46b55f0467-531172-0.jpg",
+                    "description": "AULA F108 Pro Tri-Mode Wireless Mechanical Keyboard",
+                    "category": "Computers, Tablets & Accessories",
+                    "vendor": "AULA",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FAULA-F108-Pro-Tri-Mode-Wireless-Mechanical-Keyboard-531172.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531178",
+                    "title": "LEOBOG Hi65 Tri-Mode Wireless Mechanical Keyboard, 65% Layout, Gasket Mount, Hot-Swappable Jasper Linear Switch, PBT Dye-Sublimation Keycaps, RGB Backlight, 4000mAh Battery, Type-C/2.4G/Bluetooth - Black",
+                    "price": 89,
+                    "oldPrice": 129.98,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-03-12/leobog-hi65-tri-mode-wireless-mechanical-keyboard-b9eb52-1773302802351.jpg",
+                    "description": "LEOBOG Hi65 Tri-Mode Wireless Mechanical Keyboard",
+                    "category": "Computers, Tablets & Accessories",
+                    "vendor": "LEOBOG",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLEOBOG-Hi65-Tri-Mode-Wireless-Mechanical-Keyboard-531178.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531181",
+                    "title": "LEOBOG Hi75C Pro Tri-Mode Wireless Mechanical Keyboard, 75% Layout, Aluminum Case, Gasket Mount, Hot-Swappable, RGB Backlit, Knob Control, 4000mAh Battery",
+                    "price": 64.99,
+                    "oldPrice": 69.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-03-12/ef42255565474a05af708d02bcd1a797-531181-0.jpg",
+                    "description": "LEOBOG Hi75C PRO Tri-Mode Wireless Mechanical Keyboard",
+                    "category": "Computers, Tablets & Accessories",
+                    "vendor": "LEOBOG",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLEOBOG-Hi75C-PRO-Tri-Mode-Wireless-Mechanical-Keyboard-531181.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531180",
+                    "title": "SP-STAR D82 PRO Wireless Mechanical Keyboard, 80% Compact Layout, Tri-Mode 2.4G/Bluetooth/USB-C, 2.4-Inch IPS Screen, Hot-Swappable White Switch V2 Linear, PBT Keycaps, RGB Backlight, Gasket Mount - Pink & Black",
+                    "price": 139,
+                    "oldPrice": 179.98,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-03-12/ad8ad12a95544dd3a331dcf8fea33f19-531180-0.jpg",
+                    "description": "SP-STAR D82 PRO Wireless Mechanical Keyboard",
+                    "category": "Computers, Tablets & Accessories",
+                    "vendor": "SP-STAR",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSP-STAR-D82-PRO-Wireless-Mechanical-Keyboard-531180.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Common Questions",
+            "items": [
+                {
+                    "question": "Which mechanical keyboard should a beginner buy?",
+                    "answer": "Start by deciding how much you rely on a number pad and function row day-to-day. If you use spreadsheets or a lot of number entry, get a full-size or 80% board. If you mostly type and browse, a 75% or 65% board frees up real desk space without costing you much. Beyond that, look for hot-swap sockets specifically — it's the one feature that lets you correct a wrong switch choice later for under $20 instead of buying an entirely new keyboard."
+                },
+                {
+                    "question": "Which wireless mechanical keyboard layout is actually best — 65% or 75%?",
+                    "answer": "Neither is objectively better; it's a trade-off. 65% is smaller and gets your mouse hand closer to center, but drops the function row (F1-F12), which some workflows (media keys, certain shortcuts) rely on. 75% keeps the function row in a compact footprint, which is the more common choice for people who aren't sure yet — you get most of the desk-space benefit of 65% without giving up as much functionality."
+                },
+                {
+                    "question": "What does hot-swappable actually mean, and do I need it?",
+                    "answer": "It means the switches (the mechanism under each keycap) can be pulled out and replaced by hand, no soldering iron required. For a first mechanical keyboard, it's genuinely worth prioritizing — most beginners don't know yet whether they prefer a smooth linear switch or a tactile one with a bump, and hot-swap lets you find out for the cost of a switch pack instead of a new board."
+                },
+                {
+                    "question": "Is gasket mount worth paying extra for?",
+                    "answer": "If it's available at a similar price to a non-gasket board, yes — it makes typing feel softer and reduces the hollow, clacky sound cheaper boards have on hard keystrokes. It's become common enough at the sub-$100 tier that there's rarely a reason to pick a non-gasket board anymore unless the price difference is significant."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "The layout decision matters more for day-to-day comfort than any spec on the page — pick based on whether you actually use a number pad and function row, not on which board looks best in photos. Beyond that, hot-swap sockets are the one feature worth insisting on for a first keyboard, since they turn \"I picked the wrong switch\" from a bad purchase into a $15 fix."
+        }
+    ]
+}
