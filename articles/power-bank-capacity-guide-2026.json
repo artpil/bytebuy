@@ -1,0 +1,137 @@
+{
+    "id": "power-bank-capacity-guide",
+    "slug": "power-bank-capacity-guide-2026",
+    "title": "Power Banks: How Much Capacity Do You Actually Need?",
+    "metaDescription": "How to calculate the power bank capacity you actually need based on your phone's battery, why the advertised mAh isn't what you actually get, and 10000mAh vs 20000mAh compared.",
+    "template": "guide",
+    "date": "2026-09-22",
+    "updatedAt": "2026-09-22",
+    "author": "ByteBuy Team",
+    "readingTime": 5,
+    "featuredImage": "https://sc02.alicdn.com/kf/H510672edd7b94b0b8d0235a44807ce02u.jpg_200x200.jpg",
+    "categories": [
+        "Accessories",
+        "Buying Guides"
+    ],
+    "tags": [
+        "power bank",
+        "battery capacity",
+        "mAh",
+        "phone charging"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "The number on a power bank's box is the most misleading spec in consumer electronics, and not because of false advertising — it's just physics. A \"20000mAh\" power bank will not give your phone 20000mAh of charge. Understanding why is the difference between buying the right capacity and buying twice the power bank you actually needed, or worse, half.",
+            "image": "https://sc02.alicdn.com/kf/H510672edd7b94b0b8d0235a44807ce02u.jpg_200x200.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Why Advertised mAh Isn't What You Get",
+            "items": [
+                {
+                    "label": "Voltage Conversion Loss",
+                    "value": "Power banks store energy at ~3.7V but output at 5V/9V — converting between them loses roughly 20-30% of capacity"
+                },
+                {
+                    "label": "Real-World Output",
+                    "value": "A 20000mAh power bank realistically delivers 13000-15000mAh usable to your phone"
+                },
+                {
+                    "label": "Phone Battery Sizes",
+                    "value": "Most phones: 3000-5000mAh. A 20000mAh bank realistically charges a phone 2.5-3 times, not 4-5"
+                },
+                {
+                    "label": "Output Wattage",
+                    "value": "Determines charging speed, not capacity — check this separately if fast charging matters to you"
+                },
+                {
+                    "label": "LED Indicator",
+                    "value": "Shows the power bank's own remaining charge, not how much it can still deliver to your device"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "10000mAh is genuinely enough for most people's actual use case — a full extra charge for a typical phone with some left over, in a pocket-friendly size",
+                "20000mAh covers multi-day trips, camping, or charging a phone and a second device (earbuds, tablet) without needing a wall outlet at all",
+                "USB-C input/output on current models means one cable charges the bank and your phone, no separate charger cable needed",
+                "LED battery indicators, even basic ones, are genuinely useful for knowing when to recharge the bank itself before you need it"
+            ],
+            "cons": [
+                "The voltage conversion loss (roughly 20-30%) applies no matter which capacity you buy — it's not a defect, budget for it when calculating what you need",
+                "Bigger capacity means bigger and heavier — a 20000mAh bank is a real pocket/bag presence, not something you forget you're carrying",
+                "Generic, unbranded power banks (common at this price tier) vary more in real-world quality and longevity than named brands — check recent buyer reviews, not just the spec sheet",
+                "Output wattage, not just mAh, determines whether it can fast-charge your specific phone — check that separately before assuming a high-capacity bank charges quickly"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "10000mAh vs 20000mAh Compared",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "alibaba-electronics-62364972284",
+                    "title": "2019 Hot Sale Quick Charging USB Type C 2.1A Ultra Thin LED Light Powerbank Mini Square 10000mAh Power Banks",
+                    "description": "2019 Hot Sale Quick Charging USB Type C 2.1A Ultra Thin LED Light Powerbank Mini Square 10000mAh Power Banks",
+                    "price": 6.9,
+                    "currency": "USD",
+                    "image": "https://sc02.alicdn.com/kf/H9540b6eb1a0340ef9127ada08e77191dH.jpg_200x200.jpg",
+                    "category": "Consumer Electronics",
+                    "affiliateLink": "https://rzekl.com/g/pm1aev55cl46ff34476c219aa26f6f/?ulp=https%3A%2F%2Foffer.alibaba.com%2Fcps%2Fm8irg4a8%3Fbm%3Dcps%26src%3Dsaf%26productId%3D62364972284&i=5&f_id=50001",
+                    "source": "alibaba-electronics"
+                },
+                {
+                    "id": "alibaba-electronics-62255745742",
+                    "title": "mobile charger power bank portable powerbank 20000mah",
+                    "description": "mobile charger power bank portable powerbank 20000mah",
+                    "price": 6.5,
+                    "currency": "USD",
+                    "image": "https://sc02.alicdn.com/kf/H510672edd7b94b0b8d0235a44807ce02u.jpg_200x200.jpg",
+                    "category": "Consumer Electronics",
+                    "affiliateLink": "https://rzekl.com/g/pm1aev55cl46ff34476c219aa26f6f/?ulp=https%3A%2F%2Foffer.alibaba.com%2Fcps%2Fm8irg4a8%3Fbm%3Dcps%26src%3Dsaf%26productId%3D62255745742&i=5&f_id=50001",
+                    "source": "alibaba-electronics"
+                },
+                {
+                    "id": "alibaba-electronics-62031072636",
+                    "title": "2019 PowerBank 20000mAh External 18650 lithium Battery mobile charger potable power banks Portable with led light power bank",
+                    "description": "2019 PowerBank 20000mAh External 18650 lithium Battery mobile charger potable power banks Portable with led light power bank",
+                    "price": 37,
+                    "currency": "USD",
+                    "image": "https://sc02.alicdn.com/kf/HTB1PlxpLwHqK1RjSZFEq6AGMXXaK.jpg_200x200.jpg",
+                    "category": "Consumer Electronics",
+                    "affiliateLink": "https://rzekl.com/g/pm1aev55cl46ff34476c219aa26f6f/?ulp=https%3A%2F%2Foffer.alibaba.com%2Fcps%2Fm8irg4a8%3Fbm%3Dcps%26src%3Dsaf%26productId%3D62031072636&i=5&f_id=50001",
+                    "source": "alibaba-electronics"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Common Questions",
+            "items": [
+                {
+                    "question": "How do I calculate what power bank capacity I actually need?",
+                    "answer": "Take your phone's battery capacity (check its specs, typically 3000-5000mAh), divide the power bank's advertised mAh by about 1.5 to account for voltage conversion loss, then divide that by your phone's capacity to get realistic full charges. A 20000mAh bank divided by 1.5 gives roughly 13000mAh usable — enough for about 3 full charges on a 4000mAh phone, not 5."
+                },
+                {
+                    "question": "Is a 20000mAh power bank worth it over a 10000mAh one?",
+                    "answer": "If you're charging one phone for a day or two away from an outlet, 10000mAh covers that in a smaller, lighter package. Go to 20000mAh if you're traveling multiple days, charging more than one device, or want a real buffer margin rather than cutting it close on a single trip."
+                },
+                {
+                    "question": "Why did my power bank charge my phone less than the advertised mAh suggests?",
+                    "answer": "This is expected, not a fault — power banks store energy at a lower internal voltage than the 5V or 9V they output to charge your phone, and that conversion loses roughly 20-30% of the rated capacity. A 20000mAh bank realistically delivering 13000-15000mAh to your phone is normal, not a sign of a defective unit."
+                },
+                {
+                    "question": "Does power bank output wattage matter as much as capacity?",
+                    "answer": "For charging speed, yes — capacity only determines how many charges you get, not how fast each one happens. If your phone supports fast charging and the power bank's output wattage is too low, you'll still get a full charge, just slower than plugging into a wall charger. Check both specs if speed matters to you."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Buy capacity based on the math, not the biggest number on the box. Work out how many charges you actually need between outlets, account for the roughly 20-30% conversion loss every power bank has, and pick accordingly — 10000mAh for daily topping-up, 20000mAh for multi-day trips or charging more than one device. Anything beyond that is paying for size and weight you probably won't use."
+        }
+    ]
+}
