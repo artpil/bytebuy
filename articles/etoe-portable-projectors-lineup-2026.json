@@ -1,0 +1,149 @@
+{
+    "id": "etoe-portable-projectors-lineup",
+    "slug": "etoe-portable-projectors-lineup-2026",
+    "title": "ETOE Portable Projectors Compared: Starfish vs Seal Pro vs Dolphin 2",
+    "metaDescription": "ETOE's projector lineup compared: Starfish (budget Android TV), Seal Pro (1300 ANSI home theater), and Dolphin 2 (portable RGB laser) — how ANSI lumens and laser vs LED actually compare.",
+    "template": "guide",
+    "date": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2024-09-26/etoe-seal-pro-projector-eu-plug-826654-1727346455149.jpg",
+    "categories": [
+        "Home Theater",
+        "Buying Guides"
+    ],
+    "tags": [
+        "ETOE",
+        "portable projector",
+        "Android TV projector",
+        "laser projector",
+        "ANSI lumens"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "ETOE's three projectors look like a simple good-better-best ladder until you actually compare the specs — at which point the \"best\" one has fewer ANSI lumens than the middle one. That's not a mistake, it's the difference between LED and laser light sources, and it's exactly the kind of spec that trips people up when shopping this category. Here's what each model in the lineup is actually built for.",
+            "image": "https://img.gkbcdn.com/s3/p/2024-09-26/etoe-seal-pro-projector-eu-plug-826654-1727346455149.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Starfish vs. Seal Pro vs. Dolphin 2",
+            "items": [
+                {
+                    "label": "Starfish — Brightness",
+                    "value": "300 ANSI Lumens, LED, Android TV 11.0 built in"
+                },
+                {
+                    "label": "Seal Pro — Brightness",
+                    "value": "1300 ANSI Lumens, LED, Netflix & Google TV certified"
+                },
+                {
+                    "label": "Dolphin 2 — Brightness",
+                    "value": "800 ANSI Lumens, RGB laser, 110% BT.2020 color gamut"
+                },
+                {
+                    "label": "Portability",
+                    "value": "Dolphin 2 has a built-in 2-hour battery — the other two need constant power"
+                },
+                {
+                    "label": "Smart Platform",
+                    "value": "Starfish: Android TV 11 + Chromecast / Seal Pro & Dolphin 2: Google TV"
+                },
+                {
+                    "label": "Best Use Case",
+                    "value": "Starfish: casual/kids room / Seal Pro: dedicated dark-room home theater / Dolphin 2: outdoor & travel movie nights"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "Netflix and Google/Android TV certification across the lineup means no sideloading apps or workarounds to stream — a real differentiator from generic uncertified projectors",
+                "The Seal Pro's 1300 ANSI lumens is genuinely bright enough to use with some ambient light, not just in a fully dark room",
+                "The Dolphin 2's RGB laser light source produces noticeably richer, more accurate color than LED at a comparable or even lower lumen rating — laser and LED brightness numbers aren't directly comparable",
+                "Auto keystone and auto focus across all three models mean setup is genuinely plug-and-play, not manual trial and error",
+                "Built-in battery on the Dolphin 2 makes it the only one of the three that works away from an outlet — backyard, camping, a friend's place"
+            ],
+            "cons": [
+                "The Starfish's 300 ANSI lumens genuinely needs a dark room — don't expect it to compete with any ambient light at all",
+                "Comparing ANSI lumens directly between the Seal Pro (LED) and Dolphin 2 (laser) is misleading — the laser model looks brighter and more vivid in person than its lower number suggests",
+                "The Dolphin 2's 2-hour battery covers one movie, not a marathon session, without plugging back in",
+                "None of the three include a screen — factor that into the total setup cost if you don't already have a wall or surface that works"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "The ETOE Lineup",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-526734",
+                    "title": "[Netflix & Android TV Certifie] ETOE Starfish Projector, Android TV 11.0, Dolby Digital, Touch Night Light, 140° Rotation, 300 ANSI, 4K Decoding, WideVine L1, Auto Keystone Correction, Built-in Chromecast, 5W Speaker",
+                    "price": 178.994,
+                    "oldPrice": 269.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-11-26/etoe-starfish-android-tv-11-0-projector-4fdeb3-1732613902470.jpg",
+                    "description": "ETOE Starfish Android TV 11.0 Projector",
+                    "category": "Consumer Electronics",
+                    "vendor": "ETOE",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FETOE-Starfish-Android-TV-11-0-Projector-526734.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-525712",
+                    "title": "[Upgraded Edition] ETOE Seal Pro 1300 ANSI 1080P Projector – Netflix & Google TV Certified, Dolby Audio, Auto Focus, 2 x 10W Speaker",
+                    "price": 359.113,
+                    "oldPrice": 399.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-09-26/etoe-seal-pro-projector-eu-plug-826654-1727346455149.jpg",
+                    "description": "ETOE Seal Pro Projector EU Plug",
+                    "category": "Consumer Electronics",
+                    "vendor": "ETOE",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FETOE-Seal-Pro-Projector-EU-Plug-525712.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531507",
+                    "title": "ETOE Dolphin 2 Portable RGB Laser Projector, 1080P Google TV, 800 ANSI Lumens, 110% BT.2020, 2H Battery, Auto Keystone & Focus",
+                    "price": 899.471,
+                    "oldPrice": 999.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-05-28/etoe-dolphin-2-projector-b05a6b-1779962540753.jpg",
+                    "description": "ETOE Dolphin 2 Portable RGB Laser Projector, 1080P Google TV, 800 ANSI Lumens, 110% BT.2020, 2H Battery, Auto Keystone & Focus",
+                    "category": "Consumer Electronics",
+                    "vendor": "ETOE",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FETOE-Dolphin-2-Portable-RGB-Laser-Projector-531507.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Common Questions",
+            "items": [
+                {
+                    "question": "Which portable projector should I buy for watching movies at home?",
+                    "answer": "If it's a dedicated, mostly-dark room for regular movie nights, the Seal Pro's 1300 ANSI lumens gives the brightest, most theater-like image of the three. If you want something to move between rooms or take outside, the Dolphin 2's built-in battery and laser color accuracy are worth the smaller lumen number. The Starfish is the pick if budget is the priority and the room is already fully dark, like a bedroom or kids' room."
+                },
+                {
+                    "question": "What Android TV projector actually supports Netflix properly?",
+                    "answer": "All three ETOE models are Netflix-certified, which matters more than it sounds — many budget projectors run a modified Android TV that Netflix blocks or degrades to low resolution. Certification means Netflix runs natively at full quality, the same as on a certified smart TV or streaming stick."
+                },
+                {
+                    "question": "Why does the more expensive Dolphin 2 have fewer ANSI lumens than the Seal Pro?",
+                    "answer": "Because they use different light sources. The Seal Pro is LED-based; the Dolphin 2 uses RGB laser, which produces a wider, more accurate color gamut (110% BT.2020) and generally punchier image quality at a given lumen rating compared to LED. In practical terms, the Dolphin 2 often looks brighter and richer than its 800 ANSI number suggests when placed next to an LED projector rated higher — laser and LED lumens aren't a fair apples-to-apples comparison."
+                },
+                {
+                    "question": "Do I need a projector screen, or can I project onto a wall?",
+                    "answer": "A flat, light-colored wall works fine to start, especially with the Starfish or Seal Pro's auto keystone and focus correcting for minor imperfections. A proper screen improves contrast and color accuracy noticeably, though, so if the projector becomes a regular setup rather than occasional use, it's a worthwhile add-on rather than a requirement from day one."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Don't shop this lineup by ANSI lumens alone — LED and laser light sources don't compare on the same scale, which is exactly why the priciest model here has the middle brightness number. Pick by use case instead: Starfish for a dark room on a budget, Seal Pro for the brightest dedicated home-theater image, Dolphin 2 for portability and color accuracy anywhere there's no outlet nearby."
+        }
+    ]
+}
