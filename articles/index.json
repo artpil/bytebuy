@@ -1,13 +1,29 @@
 [
     {
-        "id": "electric-bikes-lineup",
-        "slug": "electric-bikes-lineup-2026",
-        "title": "Электровелосипеды: обзор моделей и как выбрать подходящий",
-        "metaDescription": "Обзор электровелосипедов: сравнение моделей TWOFISH TF-1, ENGWE L20 BOOST, FENGQS Q8 и PHILIAM F3 PRO — мощность мотора, ёмкость батареи, запас хода и для кого подходит каждая.",
-        "date": "2026-09-28",
-        "readingTime": 6,
-        "categories": ["Electric Bikes", "Buying Guides"],
-        "featuredImage": "https://img.gkbcdn.com/p/2025-06-25/TWOFISH-TF-1-Electric-Bike-250W-36V-15Ah-Red-529388-0._w500_p1_.jpg"
+        "id": "gaming-mouse-what-to-look-for",
+        "slug": "gaming-mouse-what-to-look-for-2026",
+        "title": "Gaming Mouse Buying Guide: What to Look For Beyond DPI",
+        "metaDescription": "How to choose a gaming mouse: why DPI/CPI isn't the spec that matters most, wired vs tri-mode wireless, sensor quality, and shape — with three real models compared.",
+        "date": "2026-09-26",
+        "readingTime": 5,
+        "categories": [
+            "Peripherals",
+            "Buying Guides"
+        ],
+        "featuredImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sf90a193dd43f4db9bce0b00dcac5edf2L.jpg"
+    },
+    {
+        "id": "electric-bikes-buying-guide",
+        "slug": "electric-bikes-buying-guide-2026",
+        "title": "Electric Bikes in 2026: How to Choose Between Commuter, Folding, and High-Power Models",
+        "metaDescription": "E-bike buying guide: why 250W/25km/h models are a different legal class from 750W+ bikes, how to read range claims honestly, and which type fits commuting, folding, or performance riding.",
+        "date": "2026-09-25",
+        "readingTime": 7,
+        "categories": [
+            "E-Bikes",
+            "Buying Guides"
+        ],
+        "featuredImage": "https://img.gkbcdn.com/s3/p/2025-04-23/engwe-ep-2-pro-folding-electric-moped-bicycle-black-526c56-1745375221147.jpg"
     },
     {
         "id": "ktc-gaming-monitors-which-to-choose",
@@ -94,7 +110,10 @@
         "metaDescription": "3D printer buying guide for 2026: entry-level vs multi-material vs multi-color vs professional models, what build volume and speed actually mean, and which tier fits a beginner.",
         "date": "2026-09-18",
         "readingTime": 7,
-        "categories": ["3D Printing", "Buying Guides"],
+        "categories": [
+            "3D Printing",
+            "Buying Guides"
+        ],
         "featuredImage": "https://img.gkbcdn.com/s3/p/2025-08-20/creality-k2-pro-combo-3d-printer-a2b8f4-1755685042060.jpg"
     },
     {
@@ -104,7 +123,10 @@
         "metaDescription": "How to choose a portable power station for home backup or off-grid use, when to add a solar panel, and how to size capacity to what you actually need to run.",
         "date": "2026-09-17",
         "readingTime": 7,
-        "categories": ["Outdoor & Power", "Buying Guides"],
+        "categories": [
+            "Outdoor & Power",
+            "Buying Guides"
+        ],
         "featuredImage": "https://img.gkbcdn.com/s3/p/2025-01-23/fossibot-f2400-portable-power-station---sp200-solar-panel-4d7b05-1737601510321.jpeg"
     },
     {
@@ -114,7 +136,10 @@
         "metaDescription": "Tronsmart wireless audio lineup reviewed: the Sounfii R4 TWS earbuds with ENC call noise reduction and the SOUNFII Q20S hybrid ANC headphones — which one actually fits your use case.",
         "date": "2026-09-16",
         "readingTime": 5,
-        "categories": ["Audio", "Tech Reviews"],
+        "categories": [
+            "Audio",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/s3/p/2024-03-26/66355ae64dc94768b9b6deeb80e7d0c6-523979-3.jpg"
     },
     {
@@ -124,7 +149,10 @@
         "metaDescription": "Mini PC buying guide: how a mini PC differs from a regular desktop, when it makes sense instead of a full tower, and a comparison of an Android TV box vs. Ryzen and Intel mini PCs.",
         "date": "2026-09-15",
         "readingTime": 6,
-        "categories": ["Computers", "Buying Guides"],
+        "categories": [
+            "Computers",
+            "Buying Guides"
+        ],
         "featuredImage": "https://img.gkbcdn.com/s3/p/2025-04-29/minix-n512-mini-pc--16gb-ram---512gb-ssd-39a3f8-1745910987850.jpg"
     },
     {
@@ -134,7 +162,10 @@
         "metaDescription": "Detailed review of the A68Designer Armrest Office Chair: oversized seating cushion, adjustable swivel wheels, ergonomic posture support, high-density foam, and budget comparison.",
         "date": "2026-09-11",
         "readingTime": 6,
-        "categories": ["Furniture", "Tech Reviews"],
+        "categories": [
+            "Furniture",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://ae-pic-a1.aliexpress-media.com/kf/S61a5e3831c4c48318c45f4cc9178bb8eW.jpg"
     },
     {
@@ -144,7 +175,10 @@
         "metaDescription": "In-depth FMART W6 window cleaning robot review: 3800Pa suction power, dual ultrasonic water spray, AI edge detection sensors, app control, and comparison with competitors.",
         "date": "2026-09-02",
         "readingTime": 6,
-        "categories": ["Smart Home", "Tech Reviews"],
+        "categories": [
+            "Smart Home",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2026-03-03/FMART-W6-Window-Cleaner-Robot-White-531124-0._p1_.jpg"
     },
     {
@@ -154,7 +188,10 @@
         "metaDescription": "In-depth Ultenic U18 PowerPro review: 600W motor, 55kPa high suction power, GreenEye LED dust detection, bendable wand, self-standing design, and comparison.",
         "date": "2026-09-02",
         "readingTime": 7,
-        "categories": ["Smart Home", "Tech Reviews"],
+        "categories": [
+            "Smart Home",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2026-06-11/Ultenic-U18-Power-Pro-Cordless-Vacuum-Cleaner-531622-0._w500_.jpg"
     },
     {
@@ -164,7 +201,10 @@
         "metaDescription": "NEWTRAL MagicH-GPRO ergonomic chair review: Patented auto-following lumbar support, 5D headrest, 4D armrests, foldable footrest, and 136° recline.",
         "date": "2026-08-24",
         "readingTime": 7,
-        "categories": ["Furniture", "Tech Reviews"],
+        "categories": [
+            "Furniture",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-12-03/newtral-magich-gpro-ergonomic-chair-with-footrest-gray-a2d707-1764757369005._w500_.jpg"
     },
     {
@@ -174,7 +214,10 @@
         "metaDescription": "Narwal Freo Z10 review: 15,000Pa suction, spinning mop system, hot-water self-cleaning base, and 120-day self-emptying. Who it's actually good for.",
         "date": "2026-08-21",
         "readingTime": 6,
-        "categories": ["Smart Home", "Buying Guides"],
+        "categories": [
+            "Smart Home",
+            "Buying Guides"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-05-14/NARWAL-Freo-Z10-Robot-Vacuum-and-Mop-White-EU-Plug-528804-2._w500_.jpg"
     },
     {
@@ -184,7 +227,10 @@
         "metaDescription": "Detailed review of the Halo Knight T102 electric scooter: 1200W motor, 52V 21Ah battery, 45km range, 50km/h top speed, dual disc brakes, and full suspension.",
         "date": "2025-09-01",
         "readingTime": 7,
-        "categories": ["Electric Scooters", "Tech Reviews"],
+        "categories": [
+            "Electric Scooters",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-04-01/Halo-Knight-T102-Electric-Scooter-1200W-52V-21Ah-528255-0._w500_.jpg"
     },
     {
@@ -194,7 +240,10 @@
         "metaDescription": "Detailed review of the Creality K2 Pro Combo 3D printer: 300×300×300 mm build volume, 600 mm/s speed, 16-color printing, and AI calibration.",
         "date": "2025-08-17",
         "readingTime": 8,
-        "categories": ["3D Printing", "Tech Reviews"],
+        "categories": [
+            "3D Printing",
+            "Tech Reviews"
+        ],
         "featuredImage": "https://img.gkbcdn.com/p/2025-08-28/Creality-K2-Combo-3D-Printer-530014-10._w500_.jpg"
     }
 ]

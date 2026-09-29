@@ -1,0 +1,144 @@
+{
+    "id": "gaming-mouse-what-to-look-for",
+    "slug": "gaming-mouse-what-to-look-for-2026",
+    "title": "Gaming Mouse Buying Guide: What to Look For Beyond DPI",
+    "metaDescription": "How to choose a gaming mouse: why DPI/CPI isn't the spec that matters most, wired vs tri-mode wireless, sensor quality, and shape — with three real models compared.",
+    "template": "guide",
+    "date": "2026-09-26",
+    "updatedAt": "2026-09-26",
+    "author": "ByteBuy Team",
+    "readingTime": 5,
+    "featuredImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sf90a193dd43f4db9bce0b00dcac5edf2L.jpg",
+    "categories": [
+        "Peripherals",
+        "Buying Guides"
+    ],
+    "tags": [
+        "gaming mouse",
+        "DPI",
+        "wireless mouse",
+        "Attack Shark",
+        "SteelSeries",
+        "Keychron"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "Gaming mouse boxes lead with a huge DPI number — 12000, 26000, 30000 — because it's easy to print and easy to compare. It's also nearly irrelevant: almost nobody plays at those settings, and every modern sensor handles the range people actually use. What decides whether a mouse feels right is connection type, sensor quality, shape, and how you'll use it day to day. Here's how to read the spec sheet, with three very different mice as examples.",
+            "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sf90a193dd43f4db9bce0b00dcac5edf2L.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "What Actually Matters",
+            "items": [
+                {
+                    "label": "DPI / CPI",
+                    "value": "Sensitivity setting — most players use 400-1600, so anything above ~3200 is headroom, not a reason to buy"
+                },
+                {
+                    "label": "Sensor Quality",
+                    "value": "Tracking accuracy matters more than the max number — flagship sensors like the PAW3395 (Attack Shark X6) are built for precision, not just big DPI"
+                },
+                {
+                    "label": "Connection",
+                    "value": "Wired: zero-latency, never needs charging. Tri-mode (2.4G / Bluetooth / cable): flexible across desktop, laptop, and travel"
+                },
+                {
+                    "label": "Shape & Grip",
+                    "value": "Ergonomic (Keychron M6) vs. symmetrical/ambidextrous — the biggest factor in comfort over long sessions"
+                },
+                {
+                    "label": "Extras",
+                    "value": "Macro buttons, magnetic charging bases, RGB — nice to have, not core performance"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "The SteelSeries Rival 310 is wired, so there's no battery, no charging, and no wireless latency to think about — a solid, simple pick for FPS games",
+                "The Attack Shark X6 packs a modern PAW3395 sensor, tri-mode connectivity, macro support and a magnetic charging base into a budget price",
+                "The Keychron M6 goes a different direction — ergonomic shape, quiet-click switches and stainless-steel dual scroll rollers, aimed at people who mix work and gaming",
+                "Tri-mode wireless (2.4G + Bluetooth + wired) means one mouse can cover a gaming PC, a work laptop and a tablet",
+                "Prices here run from about $40 to under $100 — well below the premium wireless gaming mice from the big-name brands"
+            ],
+            "cons": [
+                "Wireless mice need charging — a 2.4G dongle connection is fast for gaming, but Bluetooth mode adds noticeable latency, so use the dongle or cable for competitive play",
+                "The Rival 310's wired cable and fixed shape suit right-handed FPS players; there's no wireless flexibility if you want to move it between devices",
+                "Budget brands like Attack Shark have thinner support and less proven long-term durability than SteelSeries — check recent buyer reviews",
+                "An ergonomic shape like the Keychron M6 is great for comfort but is not the lightest or most agile choice for fast-flick shooters"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "Three Gaming Mice Compared",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "alibaba-electronics-60743630844",
+                    "title": "SteelSeries Rival 310 RGB FPS USB Optical Gaming Wired Mouse with 12000 CPI",
+                    "description": "SteelSeries Rival 310 RGB FPS USB Optical Gaming Wired Mouse with 12000 CPI",
+                    "price": 40,
+                    "currency": "USD",
+                    "image": "https://sc02.alicdn.com/kf/HTB1fUyrdAKWBuNjy1zjq6AOypXau.jpg_200x200.jpg",
+                    "category": "Consumer Electronics",
+                    "affiliateLink": "https://rzekl.com/g/pm1aev55cl46ff34476c219aa26f6f/?ulp=https%3A%2F%2Foffer.alibaba.com%2Fcps%2Fm8irg4a8%3Fbm%3Dcps%26src%3Dsaf%26productId%3D60743630844&i=5&f_id=50001",
+                    "source": "alibaba-electronics"
+                },
+                {
+                    "id": "aliexpress-40-55-1005009994396732",
+                    "title": "Hot Sale Attack Shark X6 PAW3395 Bluetooth Mouse,2.4 Tri-Mode Connection, RGB Touch Magnetic Charging Base, Macro Gaming Mouse",
+                    "price": 49.05,
+                    "oldPrice": 98.09,
+                    "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sf90a193dd43f4db9bce0b00dcac5edf2L.jpg",
+                    "description": "",
+                    "category": "Computer Peripherals",
+                    "vendor": "",
+                    "currency": "USD",
+                    "affiliateLink": "https://rzekl.com/c/1e8d11449446ff34476c16525dc3e8/?ulp=https%3A%2F%2Faliexpress.com%2Fitem%2F1005009994396732.html",
+                    "source": "aliexpress-40-55"
+                },
+                {
+                    "id": "aliexpress-85-100-1005011618741445",
+                    "title": "Keychron M6 Master Edition INTOMAZE Co-branded Custom Wireless Tri-Mode Ergonomic Mouse Stainless Steel Dual Rollers Quiet Click",
+                    "price": 98.85,
+                    "oldPrice": 141.22,
+                    "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sc27a624c918a460c908f03625ba4f833S.jpg",
+                    "description": "",
+                    "category": "Computer Peripherals",
+                    "vendor": "",
+                    "currency": "USD",
+                    "affiliateLink": "https://rzekl.com/c/1e8d11449446ff34476c16525dc3e8/?ulp=https%3A%2F%2Faliexpress.com%2Fitem%2F1005011618741445.html",
+                    "source": "aliexpress-85-100"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Common Questions",
+            "items": [
+                {
+                    "question": "What should I look for in a gaming mouse for FPS games?",
+                    "answer": "Prioritise a quality sensor, low and consistent latency (wired or 2.4G wireless — not Bluetooth), and a shape that fits your hand and grip style. DPI matters far less than these. A mouse like the SteelSeries Rival 310 is built specifically for FPS use; a tri-mode model like the Attack Shark X6 works well in 2.4G mode."
+                },
+                {
+                    "question": "Is a higher DPI gaming mouse better?",
+                    "answer": "No. DPI (CPI) is just how far the cursor moves per inch of mouse travel, and most players settle between 400 and 1600. A mouse advertising 26000 DPI isn't better for gaming than one at 12000 — beyond the range you actually use, extra DPI adds nothing. Sensor quality and tracking consistency are what separate good mice from cheap ones."
+                },
+                {
+                    "question": "Is a wireless gaming mouse as good as a wired one?",
+                    "answer": "Modern 2.4G wireless is effectively as responsive as wired for almost everyone, and you get freedom from the cable. The trade-offs are charging and, in Bluetooth mode, extra latency. If you never want to think about battery, wired is the simplest choice; if you value flexibility across devices, a tri-mode mouse covers both."
+                },
+                {
+                    "question": "What does tri-mode mean on a mouse?",
+                    "answer": "Tri-mode means it can connect three ways: a 2.4GHz USB dongle for low-latency gaming, Bluetooth for laptops and tablets, and a USB cable for wired use and charging. It's the most flexible setup — use the dongle or cable when it matters, Bluetooth when convenience matters more."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Ignore the DPI headline and choose by connection, sensor and shape. Wired and simple: Rival 310. Best feature set for the money: Attack Shark X6. Comfort-first for work-and-play: Keychron M6. Pick the one that fits your hand and how you'll actually use it."
+        }
+    ]
+}
