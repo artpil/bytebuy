@@ -1,0 +1,135 @@
+{
+    "id": "3dmakerpro-scanners-guide",
+    "slug": "3dmakerpro-3d-scanners-guide-2026",
+    "title": "3DMakerpro 3D Scanners: What Each Model Is Actually For",
+    "metaDescription": "3DMakerpro lineup explained: the Moose Lite structured-light scanner for small, high-precision objects vs. the Raven/Raven Max/Raven Max RTK handheld LiDAR scanners for rooms, buildings, and outdoor mapping.",
+    "template": "guide",
+    "date": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "author": "ByteBuy Team",
+    "readingTime": 7,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2026-06-01/1ebf816adc8d4774bebe9b8aa88687b7-531584-0.jpg",
+    "categories": ["3D Printing & Scanning", "Tech Reviews"],
+    "tags": ["3DMakerpro", "3D scanner", "LiDAR", "reverse engineering", "Raven Max", "Moose Lite"],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "\"3D scanner\" is a vague label that covers two genuinely different tools, and 3DMakerpro's own lineup is a good example of the split. The Moose Lite is a structured-light scanner: it sits a few centimeters from a small object and captures its surface in sub-0.1mm detail — the kind of precision you need for reverse-engineering a part or prepping a model for 3D printing. The Raven, Raven Max, and Raven Max RTK are handheld LiDAR scanners built for the opposite job: walking through a room, a building, or a job site and capturing it at scale, with range measured in tens of meters rather than millimeters. Picking the wrong category for your use case is the most common and most expensive mistake people make with this kind of hardware, so this guide leads with that distinction rather than a spec sheet.",
+            "image": "https://img.gkbcdn.com/s3/p/2026-06-01/1ebf816adc8d4774bebe9b8aa88687b7-531584-0.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "The Lineup at a Glance",
+            "items": [
+                { "label": "Moose Lite", "value": "Structured-light, NIR source, 0.05mm accuracy, 0.10mm resolution, 10fps — small objects, close range" },
+                { "label": "Raven", "value": "Handheld LiDAR, single 12MP camera, 100m range, 150,000 points/s, 360°×40° FOV — rooms, interiors" },
+                { "label": "Raven Max", "value": "Handheld LiDAR, dual 12MP cameras, 100m range, enhanced RGB point clouds, same 150,000 points/s" },
+                { "label": "Raven Max RTK", "value": "Same as Raven Max, plus integrated RTK positioning for survey-grade, geo-referenced mapping" },
+                { "label": "Battery / Storage (Raven family)", "value": "12,000mAh built-in battery, 32GB onboard storage, Wi-Fi 5" },
+                { "label": "Color Capture (Raven family)", "value": "4K true-color capture fused onto the point cloud" }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "Moose Lite's 0.05mm accuracy is genuinely in reverse-engineering/CAD-prep territory, not a marketing number for casual object scanning",
+                "The Raven family's 100m range and 150,000 points/second make walkthrough scanning of whole rooms or buildings practical in minutes, not hours",
+                "4K true-color capture on the Raven models means point clouds come out textured, not just geometric — useful for visualization and as-built documentation",
+                "Raven Max RTK's integrated RTK positioning is a real differentiator for anyone who needs geo-referenced, survey-grade data rather than a relative scan",
+                "All four models in this family are clearly scoped to their job — there's no attempt to make one scanner do both small-object precision and large-space mapping"
+            ],
+            "cons": [
+                "The Moose Lite cannot scan a room, and the Raven models cannot capture small-object detail at 0.05mm — picking the wrong category wastes the money entirely",
+                "Raven Max RTK's price (around $3,310) only pays for itself if you actually need survey-grade positioning; Raven Max without RTK covers the same scanning job for about $880 less",
+                "32GB of onboard storage on the Raven family fills up quickly on large, high-detail scans of big spaces — plan for offloading data between sessions",
+                "None of these are one-button consumer gadgets; getting usable output, especially from the LiDAR models, involves a learning curve with the companion software"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "3DMakerpro Scanners",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-526344",
+                    "title": "3DMakerpro Moose Lite 3D Scanner, NIR Light Source, 0.05mm Accuracy, 0.10mm Resolution, 24-bit Color Camera, 10fps Frame Rate, Anti-Shake Lenses, Compatible with Windows/MacOS - Luxury Version",
+                    "price": 627.966,
+                    "oldPrice": 799,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-11-06/3DMakerpro-Moose-Lite-3D-Scanner-Luxury-Version-526344-0.jpg",
+                    "description": "3DMakerpro Moose Lite 3D Scanner Luxury Version",
+                    "category": "Consumer Electronics",
+                    "vendor": "3DMakerpro",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2F3DMakerpro-Moose-Lite-3D-Scanner-Luxury-Version-526344.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531582",
+                    "title": "3DMakerpro Raven LiDAR Scanner, Single 12MP Camera, 100m Scan Range, 150,000 Points/s, 360°×40° FOV, 4K True-Color Capture, 32GB Storage, 12000mAh Battery, Wi-Fi 5, USB-C PD 65W",
+                    "price": 1764.706,
+                    "oldPrice": 2199.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-06-01/3DMakerpro-Raven-LiDAR-Scanner-531582-0.jpg",
+                    "description": "3DMakerpro Raven LiDAR Scanner",
+                    "category": "Consumer Electronics",
+                    "vendor": "3DMakerpro",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2F3DMakerpro-Raven-LiDAR-Scanner-531582.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531584",
+                    "title": "3DMakerpro Raven Max LiDAR Scanner, Dual 12MP Cameras, 100m Scan Range, Enhanced RGB Point Clouds, 150,000 Points/s, 360°×40° FOV, 4K True-Color Capture, 32GB Storage, 12000mAh Battery, Wi-Fi 5",
+                    "price": 2426.884,
+                    "oldPrice": 3199.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-06-01/1ebf816adc8d4774bebe9b8aa88687b7-531584-0.jpg",
+                    "description": "3DMakerpro Raven Max LiDAR Scanner",
+                    "category": "Consumer Electronics",
+                    "vendor": "3DMakerpro",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2F3DMakerpro-Raven-Max-LiDAR-Scanner-531584.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531586",
+                    "title": "3DMakerpro Raven Max RTK LiDAR Scanner, Dual 12MP Cameras, Integrated RTK Positioning, 100m Scan Range, Survey-Grade Mapping, 150,000 Points/s, 360°×40° FOV, Enhanced RGB Point Clouds, 4K True-Color Capture, 32GB Storage, 12000mAh Battery, Wi-Fi 5",
+                    "price": 3309.789,
+                    "oldPrice": 4099.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-06-01/3DMakerpro-Raven-Max-RTK-LiDAR-Scanner-531586-0.jpg",
+                    "description": "3DMakerpro Raven Max RTK LiDAR Scanner",
+                    "category": "Consumer Electronics",
+                    "vendor": "3DMakerpro",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2F3DMakerpro-Raven-Max-RTK-LiDAR-Scanner-531586.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "Which 3DMakerpro scanner should I buy to scan a small part for 3D printing or CAD?",
+                    "answer": "The Moose Lite. It's a structured-light scanner built for close-range, high-precision capture (0.05mm accuracy, 0.10mm resolution) — exactly what reverse engineering or printing-prep work needs. None of the Raven LiDAR models can get anywhere near that level of small-object detail; they're built for a completely different scale of job."
+                },
+                {
+                    "question": "What's the actual difference between the Raven, Raven Max, and Raven Max RTK?",
+                    "answer": "All three are handheld LiDAR scanners with the same 100m range and 150,000 points/second capture rate. The Raven has a single 12MP camera; the Raven Max adds a second 12MP camera for enhanced RGB point clouds (better color/texture fidelity on the final model). The Raven Max RTK is the Raven Max plus integrated RTK positioning, which gives you survey-grade, geo-referenced accuracy instead of a scan that's only accurate relative to itself. If you don't need geo-referenced data, the plain Raven Max covers the same scanning capability for roughly $880 less."
+                },
+                {
+                    "question": "Can I use a Raven-series scanner to digitize a small object instead of buying the Moose Lite?",
+                    "answer": "Not for precision work. The Raven family is tuned for large-scale capture — rooms, floors, outdoor sites — where 100m range and a huge points-per-second rate matter more than sub-millimeter accuracy on a single object. Trying to use it for CAD-grade small-part scanning will give you a coarser result than the Moose Lite's dedicated structured-light approach."
+                },
+                {
+                    "question": "Is RTK positioning worth the extra cost on the Raven Max RTK?",
+                    "answer": "Only if your work actually requires geo-referenced or survey-grade coordinates — construction documentation, land surveying, or any workflow where the scan needs to align precisely with real-world positioning data. For interior walkthroughs, real-estate documentation, or general space digitization, the standard Raven Max delivers the same scan quality and range without paying for positioning accuracy you won't use."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "The 3DMakerpro lineup isn't really \"four scanners to choose between\" — it's two tools for two different jobs. If what you're digitizing fits on a desk and needs to be dimensionally accurate, the Moose Lite is the only sensible pick. If what you're digitizing is a room, a floor, or a site, you're choosing between the three Raven LiDAR models based on how much color fidelity and positioning accuracy your workflow actually needs, not on which one scans \"better\" in the abstract. Match the tool to the scale of the object first — everything else is a secondary decision."
+        }
+    ]
+}

@@ -1,5 +1,18 @@
 [
     {
+        "id": "3dmakerpro-scanners-guide",
+        "slug": "3dmakerpro-3d-scanners-guide-2026",
+        "title": "3DMakerpro 3D Scanners: What Each Model Is Actually For",
+        "metaDescription": "3DMakerpro lineup explained: the Moose Lite structured-light scanner for small, high-precision objects vs. the Raven/Raven Max/Raven Max RTK handheld LiDAR scanners for rooms, buildings, and outdoor mapping.",
+        "date": "2026-10-04",
+        "readingTime": 7,
+        "categories": [
+            "3D Printing & Scanning",
+            "Tech Reviews"
+        ],
+        "featuredImage": "https://img.gkbcdn.com/s3/p/2026-06-01/1ebf816adc8d4774bebe9b8aa88687b7-531584-0.jpg"
+    },
+    {
         "id": "hibrew-espresso-machines-compared",
         "slug": "hibrew-espresso-machines-compared-2026",
         "title": "HiBREW Espresso Machines Compared: H10 Plus vs H13 vs H7 Lite vs H7A",
