@@ -1,0 +1,120 @@
+{
+    "id": "curaprox-toothbrushes-guide",
+    "slug": "curaprox-toothbrushes-guide-2026",
+    "title": "Curaprox Toothbrushes: A Buyer's Guide",
+    "metaDescription": "How to choose Curaprox oral care: the ultra-soft CS 5460 brush, the 'brush + toothpaste' starter set, and CPS interdental refill brushes — what's different and what to buy first.",
+    "template": "guide",
+    "date": "2026-10-08",
+    "updatedAt": "2026-10-08",
+    "author": "ByteBuy Team",
+    "readingTime": 5,
+    "featuredImage": "https://doctorslon.ru/upload/iblock/2d8/2d8cf0c9d780b6447e080712c91c93b0.jpg",
+    "categories": ["Oral Care", "Buying Guide"],
+    "tags": ["Curaprox", "toothbrush", "interdental brush", "dental care"],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "Curaprox is a Swiss brand built around one specific idea: standard bristles are too harsh and irritate gums, and cleaning effectiveness depends on the number and fineness of the filaments, not on how stiff they are. That's where the brand's signature CS 5460 brush comes from, with 5,460 ultra-fine CUREN filaments. But a full routine isn't just a brush — below we cover three real catalog items: the brush itself, a starter 'brush + toothpaste' set, and replaceable interdental brushes, and what each one is actually for.",
+            "image": "https://doctorslon.ru/upload/iblock/16f/16fd6a424285eef0cdbc97c25f1e58d7.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "What's in the lineup",
+            "items": [
+                { "label": "CS 5460 Ultra Soft", "value": "Ultra-soft brush with 5,460 CUREN filaments — the main tool for daily brushing" },
+                { "label": "'Be Yourself and Shine' set", "value": "CS 5460 brush + toothpaste in one bundle — a convenient starter set or gift" },
+                { "label": "CPS 06 Prime Refill", "value": "Replaceable interdental brushes, 0.6 mm, 8 pcs per pack — for the gaps between teeth, separate from the brush" },
+                { "label": "What each one is for", "value": "The brush and the set handle daily surface cleaning; the interdental brushes clean the spaces between teeth that a toothbrush can't reach" }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "5,460 ultra-fine filaments instead of a few dozen regular bristles — cleaning is gentler, but the contact area with the tooth is actually larger, not smaller",
+                "Ultra-soft bristles work well for sensitive gums and gum recession, where stiffer brushes tend to irritate the tissue",
+                "The starter set answers the 'where do I even start' question — the brush and the toothpaste are already matched to each other",
+                "Interdental brushes cover a zone a regular brush physically can't reach — this is a complementary step, not a duplicate one",
+                "CPS refill brushes are sold separately from the holder, so you don't have to buy the whole kit again every time you need a replacement"
+            ],
+            "cons": [
+                "Ultra-soft bristles wear out faster than stiff ones — expect to replace the brush more often than manufacturers of firmer brushes typically recommend",
+                "The 'brush + toothpaste' set is a fixed bundle — if you're happy with your current toothpaste, there's little point paying extra for the bundle",
+                "0.6 mm brushes don't fit every gap — interdental brush size needs to match your specific teeth, not a single one-size-fits-all pick",
+                "This isn't an electric toothbrush — if you're after an electric option specifically, the current catalog doesn't carry Curaprox electric models"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "Curaprox Oral Care",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "doctorslon-251199",
+                    "title": "Curaprox Toothbrush",
+                    "price": 1230,
+                    "oldPrice": 2140,
+                    "image": "https://doctorslon.ru/upload/iblock/2d8/2d8cf0c9d780b6447e080712c91c93b0.jpg",
+                    "description": "CURAPROX 5460 Ultra Soft — an ultra-soft toothbrush. This is the softest brush in the Curaprox range, with an enormous number of filaments. Light circular motions along the gumline are enough to remove plaque without causing damage. The 5,460 active CUREN filaments are made from ultra-fine polyester fiber.",
+                    "category": "Manual toothbrushes",
+                    "vendor": "Curaprox",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fzubnye-shchetki%2Fcuraprox_5460_ultra_soft%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D251199",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1829762",
+                    "title": "Curaprox Toothpaste + Toothbrush Set",
+                    "price": 1310,
+                    "oldPrice": 2190,
+                    "image": "https://doctorslon.ru/upload/iblock/a5a/a5afc13364a0075dddd46157a4067ca7.jpg",
+                    "description": "Curaprox 'Be Yourself and Shine' set: a CS 5460 toothbrush and toothpaste bundled together.",
+                    "category": "Manual toothbrushes",
+                    "vendor": "Curaprox",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fzubnye-shchetki%2Fnabor-curaprox-bud-soboy-i-siyay-mechtatel%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1829762",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1133287",
+                    "title": "Curaprox Interdental Brush",
+                    "price": 2120,
+                    "oldPrice": 2590,
+                    "image": "https://doctorslon.ru/upload/iblock/641/6416dfef6d39ca71cac5f02879455634.jpg",
+                    "description": "CURAPROX CPS 06 Prime Refill — replaceable interdental brushes, 0.6 mm, designed not to damage the gum tissue between teeth and very easy to use.",
+                    "category": "Interdental brushes, floss and flossers",
+                    "vendor": "Curaprox",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fmezhzubnye-yershiki-niti-i-flossy%2Fsmennye-ershiki-curaprox-cps-06-prime-refill-8-sht-%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1133287",
+                    "source": "doctorslon"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "Is an ultra-soft brush really effective, or is it too 'weak'?",
+                    "answer": "Curaprox's cleaning effectiveness comes from filament count, not stiffness: 5,460 thin filaments create a much larger contact area with the tooth surface and gumline than 20-40 thick bristles of a regular brush. At the same time, the fine filaments don't irritate enamel and gums the way stiff bristles do."
+                },
+                {
+                    "question": "Where should I start if I've never used Curaprox before?",
+                    "answer": "The most logical choice is the 'brush + toothpaste' set — it covers both items in one order and costs almost the same as the brush alone. You can add interdental brushes separately once you've figured out the right width for your gaps."
+                },
+                {
+                    "question": "Do I need interdental brushes if I already floss?",
+                    "answer": "These are two different tools for the same job, and an interdental brush isn't mandatory if floss already works for you. But with wider gaps between teeth, or with braces or implants, a brush usually cleans faster and more effectively than floss — it's a matter of comfort and anatomy, not one tool being universally 'better'."
+                },
+                {
+                    "question": "How often should I replace the brush and the interdental brushes?",
+                    "answer": "Ultra-soft bristles wear out noticeably faster than stiff ones — go by how the filaments look (splayed, out of shape) rather than a fixed calendar interval. CPS refill brushes are simpler in this regard: the 8-pack is sold separately from the holder specifically so you can replace them often."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "The three catalog items cover different parts of the routine: the CS 5460 brush for daily cleaning, the brush-and-toothpaste set as a convenient one-click start, and interdental brushes for the zone a brush can't reach. If this is your first purchase, go with the set; if you're already using Curaprox and just need a replacement brush, the standalone CS 5460 is cheaper than the bundle; interdental brushes can be added separately as needed."
+        }
+    ]
+}

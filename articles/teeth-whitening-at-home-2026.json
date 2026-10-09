@@ -1,0 +1,134 @@
+{
+    "id": "teeth-whitening-at-home",
+    "slug": "teeth-whitening-at-home-2026",
+    "title": "At-Home Teeth Whitening: What Actually Works",
+    "metaDescription": "At-home teeth whitening compared: how White Secret and Bright Light strips differ from FGM and Dr.EL gel pens, which of these actually contain a whitening ingredient, and what to check before buying.",
+    "template": "guide",
+    "date": "2026-10-09",
+    "updatedAt": "2026-10-09",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://doctorslon.ru/upload/iblock/d73/d733ea7cdd24d1c0a3dd80c45caf9746.jpg",
+    "categories": ["Oral Care", "Buying Guide"],
+    "tags": ["teeth whitening", "White Secret", "Bright Light", "FGM", "Dr.EL", "whitening strips"],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "The at-home whitening market is full of products that work through mechanical abrasion or simply mask surface stains — don't expect real enamel lightening from those. All four products in this roundup are different: they're strips and gels based on peroxide (either hydrogen peroxide or carbamide peroxide) — the actual ingredient that lightens enamel rather than just polishing the surface. The difference between them is the application format and the claimed concentration, not whether they work at all.",
+            "image": "https://doctorslon.ru/upload/iblock/16f/16fd6a424285eef0cdbc97c25f1e58d7.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Strips vs. gel pens",
+            "items": [
+                { "label": "White Secret Intenso (strips)", "value": "A course of hydrogen-peroxide-based strips, claimed 3-6 shade lightening" },
+                { "label": "Bright Light Maximum Effects (strips)", "value": "Self-applied whitening strips, a format popular in the US and Europe" },
+                { "label": "FGM Whiteness Perfect 10 (gel pen)", "value": "A gel based on 10% carbamide peroxide, applied precisely with a syringe-pen" },
+                { "label": "Dr.EL Whity El Pen (gel pen)", "value": "A hydrogen-peroxide-based gel, claimed up to 5-shade lightening in 2 weeks" },
+                { "label": "Application format", "value": "Strips — a fixed shape, tight contact with front teeth / Pen — spot application, more manual control" }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "All four products contain peroxide (hydrogen or carbamide) — an ingredient that genuinely whitens, not an abrasive or a masking pigment",
+                "Strips (White Secret, Bright Light) give even, tight contact between the gel and the front teeth without having to manually spread the product",
+                "Gel pens (FGM, Dr.EL) are easier to apply precisely to individual teeth and simpler to dose by amount",
+                "The strip format doesn't need a tray or a dental impression — unlike professional in-office whitening, there's no instrument to fit to your jaw shape",
+                "All four products are noticeably cheaper than a single visit for professional dentist-office whitening"
+            ],
+            "cons": [
+                "The manufacturer-claimed lightening of '3-6 shades' or 'up to 5 shades' is marketing language — the actual result depends on your starting enamel shade and varies from person to person",
+                "Peroxide-based products can cause increased tooth and gum sensitivity, especially with use beyond the recommended course",
+                "At-home products don't replace a dental checkup — if you have cavities, enamel cracks, or old fillings on front teeth, whitening can produce an uneven result or cause harm",
+                "The whitening result isn't permanent — enamel gradually returns to its original shade, especially with regular coffee, tea, and other staining foods and drinks"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "At-Home Whitening Products",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "doctorslon-1462285",
+                    "title": "White Secret Whitening Strips",
+                    "price": 1990,
+                    "oldPrice": 3080,
+                    "image": "https://doctorslon.ru/upload/iblock/d73/d733ea7cdd24d1c0a3dd80c45caf9746.jpg",
+                    "description": "White Secret INTENSO — whitening strips, a course of classic and highly effective strips containing hydrogen peroxide. With a strong effect, Intenso can help whiten teeth by 3-6 shades.",
+                    "category": "Teeth whitening",
+                    "vendor": "White Secret",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fotbelivanie-zubov%2Fotbelivayushchie-poloski-white-secret-intenso-kurs-moshchnogo-otbelivaniya%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1462285",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-733337",
+                    "title": "Bright Light Whitening Strips",
+                    "price": 2200,
+                    "oldPrice": 2500,
+                    "image": "https://doctorslon.ru/upload/iblock/16f/16fd6a424285eef0cdbc97c25f1e58d7.jpg",
+                    "description": "Bright Light MAXIMUM Effects — whitening strips offering professional and safe teeth whitening anywhere and anytime that's convenient for you. It's currently one of the most popular self-whitening products in the US and Europe!",
+                    "category": "Teeth whitening",
+                    "vendor": "Bright Light",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fotbelivanie-zubov%2Fpoloski-bright-light-maximum-effects%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D733337",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1426068",
+                    "title": "FGM Whitening Gel Pen",
+                    "price": 1350,
+                    "oldPrice": 1500,
+                    "image": "https://doctorslon.ru/upload/iblock/cbb/cbb9e481dbbf05d6ca64eb58a42cf7cf.jpg",
+                    "description": "Whiteness Perfect 10% — an at-home teeth-whitening gel based on 10% carbamide peroxide.",
+                    "category": "Teeth whitening",
+                    "vendor": "FGM",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fotbelivanie-zubov%2Fshprits-s-otbelivayushchim-gelem-fgm-whiteness-perfect-10%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1426068",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1792444",
+                    "title": "Dr.EL Whitening Gel Pen",
+                    "price": 1190,
+                    "oldPrice": 1250,
+                    "image": "https://doctorslon.ru/upload/iblock/9ed/9ed53513139b64626b033fd2759effa6.jpg",
+                    "description": "Dr.EL WHITY EL PEN — a whitening gel pen. Thanks to its hydrogen-peroxide formula, it claims up to 5 shades of enamel lightening in 2 weeks.",
+                    "category": "Teeth whitening",
+                    "vendor": "Dr.EL",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fotbelivanie-zubov%2Fotbelivayushchiy-karandash-dr-el-whity-el-pen%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1792444",
+                    "source": "doctorslon"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "Which is better — strips or a gel pen?",
+                    "answer": "This is a question of convenience, not of how effective the active ingredient is. Strips give even, tight contact with the front teeth right away and don't require manually spreading the product. A pen is easier to use for spot-treating individual teeth or controlling the exact amount of gel. Both formats use peroxide as the active ingredient."
+                },
+                {
+                    "question": "How realistic is the claimed '3-6 shade' lightening?",
+                    "answer": "That figure comes from the manufacturer's marketing, not a guaranteed outcome. The degree of lightening depends on your starting enamel shade, its condition, and how closely you follow the recommended course. Results will be more noticeable for some people and more modest than advertised for others."
+                },
+                {
+                    "question": "Is peroxide-based whitening safe for teeth?",
+                    "answer": "When used as directed, peroxide-based products are a standard, widely used method of at-home whitening. But they do have a typical side effect — temporary increased sensitivity in teeth and gums, especially with use beyond the recommended course. If you have cavities, enamel cracks, old fillings on front teeth, or generally sensitive teeth, it's reasonable to check with a dentist first rather than relying solely on the package instructions."
+                },
+                {
+                    "question": "How long does the whitening result last?",
+                    "answer": "The effect isn't permanent — enamel gradually returns to its original shade, especially with regular coffee, tea, wine, and other staining foods and drinks. To maintain the result, whitening courses are usually repeated periodically rather than done once and for all."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "All four products genuinely work in the sense that they contain peroxide — the active ingredient that lightens enamel rather than just masking plaque. The difference between them is format (strips vs. pen) and ease of use, not whether they 'work or not'. White Secret and Bright Light strips suit those who want even coverage of the front teeth without extra effort. FGM and Dr.EL pens suit those who want spot control. Either way, if you have sensitive teeth, old fillings on front teeth, or any doubts, it's smarter to check with a dentist first rather than go by the packaging alone."
+        }
+    ]
+}
