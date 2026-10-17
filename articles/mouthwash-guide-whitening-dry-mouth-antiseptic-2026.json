@@ -1,0 +1,134 @@
+{
+    "id": "mouthwash-guide-whitening-dry-mouth-antiseptic",
+    "slug": "mouthwash-guide-whitening-dry-mouth-antiseptic-2026",
+    "title": "Mouthwash Guide: Whitening, Dry Mouth and Antiseptic Rinses",
+    "metaDescription": "Four mouthwashes compared by purpose: White Secret and Emra for whitening upkeep, Dentaid Xeros for dry mouth and sensitivity, and Foramen with chlorhexidine as an antiseptic rinse.",
+    "template": "guide",
+    "date": "2026-10-17",
+    "updatedAt": "2026-10-17",
+    "author": "ByteBuy Team",
+    "readingTime": 5,
+    "featuredImage": "https://doctorslon.ru/upload/iblock/f0a/f0ae71168540d0c08a5380d3a3bc1be6.jpg",
+    "categories": ["Oral Care", "Buying Guide"],
+    "tags": ["mouthwash", "oral rinse", "White Secret", "Dentaid", "Foramen", "Emra", "dry mouth"],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "A mouthwash is not one product with four flavors. The four rinses here do different jobs: two are aimed at keeping teeth white and protected day to day, one targets dry mouth and sensitivity, and one is an antiseptic rinse with chlorhexidine. Picking the wrong type means paying for an effect you did not need, or using a strong antiseptic when a gentle daily rinse was the right choice. A note on scope: the catalog currently has no oral irrigators, so this guide covers rinses only, and the FAQ explains briefly how an irrigator fits in.",
+            "image": "https://doctorslon.ru/upload/iblock/1ec/1ecf447f64a202996b6d1cc9ffe49131.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Four Rinses, Four Purposes",
+            "items": [
+                { "label": "White Secret Liquid White (250 ml)", "value": "Developed by dentists to maintain whiteness and tooth health; the maker says the series is 97% natural ingredients" },
+                { "label": "Emra Extra Whitening (200 ml)", "value": "A 'triple effect' rinse: prolongs whiteness, protects against plaque and caries, supports gum health" },
+                { "label": "Dentaid Xeros (500 ml)", "value": "For dry mouth and tooth sensitivity, helps prevent enamel demineralization, freshens breath" },
+                { "label": "Foramen Halitosis (500 ml)", "value": "Antiseptic rinse with 0.03% chlorhexidine, described as antifungal, antiviral and locally anesthetic" },
+                { "label": "How to choose", "value": "Match the rinse to the problem: whitening upkeep, dry mouth, or a short-term antiseptic need" }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "Each rinse is aimed at a distinct need, so there is a clear match whether you want whitening upkeep, dry-mouth relief or an antiseptic",
+                "White Secret and Emra are the lowest-priced options (550 and 590 RUB), a low-cost add-on to a regular brushing routine",
+                "Dentaid Xeros is one of the few options here positioned for dry mouth and sensitivity, a need ordinary rinses often do not address",
+                "Foramen states its active ingredient and concentration (chlorhexidine 0.03%), which makes it easy to know what you are buying",
+                "Larger bottles (500 ml for Dentaid and Foramen) give more rinses per purchase"
+            ],
+            "cons": [
+                "Manufacturer claims such as 'triple effect' or '97% natural' describe the product, not a guaranteed result for your teeth",
+                "A rinse supports brushing and flossing but does not replace them",
+                "Chlorhexidine rinses are generally meant for limited periods rather than indefinite daily use, and can cause side effects such as staining or taste changes, so ask a dentist how long to use one",
+                "Whitening rinses maintain shade and do not change it much on their own: for a visible difference, see our at-home whitening guide"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "Mouthwashes by Purpose",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "doctorslon-1645661",
+                    "title": "White Secret Mouthwash",
+                    "price": 550,
+                    "oldPrice": 650,
+                    "image": "https://doctorslon.ru/upload/iblock/1ec/1ecf447f64a202996b6d1cc9ffe49131.jpg",
+                    "description": "White Secret Liquid White mouthwash was developed by dentists for people who want to keep their teeth white and healthy. The White Secret Liquid series is 97% natural ingredients, according to the manufacturer.",
+                    "category": "Mouthwashes",
+                    "vendor": "White Secret",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fpenki-opolaskivateli%2Fopolaskivatel-white-secret-liquid-white-250-ml%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1645661",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1771644",
+                    "title": "Emra Mouthwash",
+                    "price": 590,
+                    "oldPrice": 700,
+                    "image": "https://doctorslon.ru/upload/iblock/8f1/8f166b9ac0ef4b2c79b0b42dd20348d5.jpg",
+                    "description": "Emra Extra Whitening is a mouthwash with a triple effect: it prolongs the whiteness of teeth, protects against plaque and caries, and supports gum health.",
+                    "category": "Mouthwashes",
+                    "vendor": "Emra",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fpenki-opolaskivateli%2Fopolaskivatel-emra-extra-whitening-200-ml%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1771644",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1361440",
+                    "title": "Dentaid Mouthwash",
+                    "price": 1050,
+                    "oldPrice": 1120,
+                    "image": "https://doctorslon.ru/upload/iblock/f0a/f0ae71168540d0c08a5380d3a3bc1be6.jpg",
+                    "description": "DENTAID Xeros is a mouthwash for relieving dry mouth and reducing heightened sensitivity, helping prevent enamel demineralization, removing unpleasant odor and giving maximum oral comfort.",
+                    "category": "Mouthwashes",
+                    "vendor": "Dentaid",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fpenki-opolaskivateli%2Fopolaskivatel-dentaid-xeros-dlya-ustraneniya-sukhosti-500-ml%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1361440",
+                    "source": "doctorslon"
+                },
+                {
+                    "id": "doctorslon-1364366",
+                    "title": "Foramen Mouthwash",
+                    "price": 730,
+                    "oldPrice": 950,
+                    "image": "https://doctorslon.ru/upload/iblock/fae/faeffececab450b4d3bb762562933122.jpg",
+                    "description": "Foramen Halitosis is a mouthwash with chlorhexidine 0.03%, described by the manufacturer as having antifungal and antiviral effects, and as an antiseptic and local anesthetic.",
+                    "category": "Mouthwashes",
+                    "vendor": "Foramen",
+                    "currency": "RUB",
+                    "affiliateLink": "https://yjfca.com/g/v2823rwv7o46ff34476c3d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb&f_id=24097&ulp=https%3A%2F%2Fdoctorslon.ru%2Fcatalog%2Fpenki-opolaskivateli%2Fopolaskivatel-foramen-halitose-s-khlorgeksidinom-0-03-500-ml%2F%3Fr1%3Dyandext%26utm_campaign%3Dmsk%26utm_source%3DYM%26utm_medium%3Dcpc%26utm_term%3D1364366",
+                    "source": "doctorslon"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "Which rinse is right for everyday use?",
+                    "answer": "For a general daily rinse focused on whiteness and protection, White Secret or Emra are the matching options. Dentaid Xeros fits if dry mouth or sensitivity is the problem. Foramen is an antiseptic with chlorhexidine, so it is better treated as a targeted product than a default daily rinse."
+                },
+                {
+                    "question": "Should I use chlorhexidine mouthwash every day?",
+                    "answer": "Chlorhexidine rinses are generally used for defined periods, often on a dentist's advice, rather than as a permanent daily habit, because long use can cause staining and taste changes. Follow the label and ask your dentist how long is appropriate for you."
+                },
+                {
+                    "question": "Do whitening mouthwashes actually whiten teeth?",
+                    "answer": "They are best thought of as shade maintenance: they help limit new staining and support a clean look. If you want a visible change in shade, a peroxide-based product is what does that, and we compare those in our at-home whitening guide."
+                },
+                {
+                    "question": "What about oral irrigators?",
+                    "answer": "An oral irrigator is a water-jet device that flushes food debris from between teeth and along the gumline. It supports brushing and flossing rather than replacing them, and some people find it easier than floss around braces or implants. The catalog has none right now, so we have not listed any here."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Choose a mouthwash for the job, not the label. White Secret and Emra for whitening upkeep, Dentaid Xeros for dry mouth and sensitivity, and Foramen when you want a chlorhexidine antiseptic for a limited, deliberate period. None of them replaces brushing and cleaning between teeth, and if you have a persistent problem such as ongoing bad breath or dry mouth, a dentist can tell you the cause, which no rinse can."
+        }
+    ]
+}
