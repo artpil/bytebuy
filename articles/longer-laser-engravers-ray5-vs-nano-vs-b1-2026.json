@@ -1,0 +1,160 @@
+{
+    "id": "longer-laser-engravers-ray5-vs-nano-vs-b1",
+    "slug": "longer-laser-engravers-ray5-vs-nano-vs-b1-2026",
+    "title": "LONGER Laser Engravers: RAY5 vs Nano vs B1",
+    "metaDescription": "LONGER's three laser families compared: the RAY5 (10W and 20W), the portable Nano 6W and the 44-48W Laser B1, with area, speed, stated cutting depth and price.",
+    "template": "guide",
+    "date": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2026-09-09/longer-laser-b1-40w-laser-engraver-cutter-7a72df-1788926215003.jpg",
+    "categories": [
+        "Tools & DIY",
+        "Buying Guide"
+    ],
+    "tags": [
+        "LONGER",
+        "LONGER RAY5",
+        "LONGER Nano",
+        "LONGER B1",
+        "laser engraver",
+        "laser cutter"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "LONGER sells laser engravers in three distinct families, and the names say less than the specs do. The RAY5 is the 400 mm hobby platform, the Nano is a compact 100 mm machine, and the Laser B1 is a high-power cutter with a stated 44W-48W output. Here are four catalog models, one or two from each family, so you can see where the money goes: from $329.99 for the RAY5 10W to $716.26 for the B1.",
+            "image": "https://img.gkbcdn.com/s3/p/2026-09-09/longer-laser-b1-40w-laser-engraver-cutter-7a72df-1788926215003.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Four Models Compared",
+            "items": [
+                {
+                    "label": "RAY5 10W ($329.99)",
+                    "value": "400x400 mm area, 0.06x0.06 mm spot, up to 24,000 mm/min, WiFi, 3.5\" touch screen, offline carving"
+                },
+                {
+                    "label": "RAY5 20W ($506.57)",
+                    "value": "400x365 mm area, 0.08x0.1 mm spot, up to 10,000 mm/min, 256-bit color scale, X/Y limit switches"
+                },
+                {
+                    "label": "Nano 6W ($451.38)",
+                    "value": "Portable, 100x100 mm area, 0.05 mm precision, two diode lasers with FAC, 5000 mm/s, listing states 6 mm wood cutting, LightBurn and LaserGRBL"
+                },
+                {
+                    "label": "Laser B1 44W-48W ($716.26)",
+                    "value": "450x440 mm area, up to 36,000 mm/min, air-assist kit, 8 safety protections, listing states 40 mm basswood and 50 mm acrylic cutting"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "The RAY5 10W is the lowest-priced model here and keeps WiFi, a touch screen and offline carving on a 400x400 mm bed",
+                "The RAY5 20W adds power on the same platform and X/Y limit switches, at about $177 more than the 10W",
+                "The Nano is the only portable option and lists the finest precision here (0.05 mm, and a stated 0.02 mm for the Nano Pro)",
+                "The B1 has by far the highest stated cutting capacity (40 mm basswood, 50 mm acrylic) and comes with an air-assist kit",
+                "The B1 is the fastest on paper, at 36,000 mm/min"
+            ],
+            "cons": [
+                "The Nano's 100x100 mm area is small, and at $451.38 it costs more than the RAY5 10W, so you pay for portability, not size",
+                "The RAY5 20W lists a lower maximum speed (10,000 mm/min) than the 10W (24,000 mm/min) and a slightly smaller 400x365 mm area",
+                "The B1 is the most expensive here and its higher power calls for stricter safety: eye protection, enclosure or ventilation",
+                "Prices differ between duplicate listings of the same model, so compare the listing price before buying",
+                "Cutting depths are stated best cases and depend on material and number of passes"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "LONGER RAY5, Nano and B1",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-524126",
+                    "title": "LONGER RAY5 10W Laser Engraver, 0.06x0.06mm Spot, 3.5'' Touch Screen & Offline Carving, 32-Bit Chipset, WiFi Connection, 24000mm/min Max Speed, 400mmx400mm",
+                    "price": 329.99,
+                    "oldPrice": 376.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-10-11/longer-ray5-10w-laser-engraver-f7565c-1728626366723.jpg",
+                    "description": "LONGER RAY5 10W laser engraver with a 0.06x0.06 mm spot, WiFi, a 3.5-inch touch screen, offline carving and a 400x400 mm working area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "LONGER",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLONGER-RAY5-10W-Laser-Engraver-524126.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-524127",
+                    "title": "LONGER RAY5 20W Laser Engraver, 32-Bit Chipset, 256-bit Color Scale, 3.5' Touch Screen, 0.08 x 0.1mm Spot, 10000mm/min Max Speed, 400mmx365mm, X/Y-axis Limit Switches",
+                    "price": 506.57,
+                    "oldPrice": 587.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-07-22/longer-ray5-20w-laser-engraver-1b2c1b-1753171735812.jpeg",
+                    "description": "LONGER RAY5 20W laser engraver with a 256-bit color scale, a 3.5-inch touch screen, X/Y-axis limit switches and a 400x365 mm working area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "LONGER",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLONGER-RAY5-20W-Laser-Engraver-524127.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-526084",
+                    "title": "LONGER Nano 6W Portable Laser Engraver, Diode Lasers with FAC, 5000mm/s Ultra-Fast Speed, 0.05mm Precision, LightBurn & LaserGRBL, LaserBurn APP Operation, 6mm Wood Cutting, 100*100mm",
+                    "price": 451.38,
+                    "oldPrice": 699.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-10-23/LONGER-Nano-6W-Portable-Diode-Laser-Engraver-526084-0.jpg",
+                    "description": "LONGER Nano 6W portable laser engraver with two diode lasers with FAC, 0.05 mm precision, LightBurn and LaserGRBL support, and a 100x100 mm area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "LONGER",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLONGER-Nano-6W-Portable-Diode-Laser-Engraver-526084.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-522357",
+                    "title": "LONGER Laser B1 44W-48W Laser Engraver Cutter, 36000mm/min, Cut 40mm Basswood / 50mm Acrylic,  Air-Assist Kit, 8 Safety Protections, 450x440mm (17.72\"x17.32\")",
+                    "price": 716.26,
+                    "oldPrice": 1599.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-09-09/longer-laser-b1-40w-laser-engraver-cutter-7a72df-1788926215003.jpg",
+                    "description": "LONGER Laser B1 44W-48W engraver cutter with an air-assist kit, 8 safety protections and a 450x440 mm working area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "LONGER",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FLONGER-Laser-B1-40W-Laser-Engraver-Cutter-522357.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "RAY5 10W or 20W?",
+                    "answer": "If you mostly engrave, the 10W is enough and costs less, and it lists WiFi and a higher speed. If you want to cut thicker material with fewer passes, the 20W is the upgrade. Check the area difference too: 400x400 mm for the 10W, 400x365 mm for the 20W."
+                },
+                {
+                    "question": "Who is the Nano for?",
+                    "answer": "For people who need a small machine they can carry or store easily, for example for markets or small custom items. Its 100x100 mm area limits project size."
+                },
+                {
+                    "question": "Is the B1 too much for a beginner?",
+                    "answer": "It is a different class of machine. If you only plan small engraving projects, the RAY5 is easier to start with. The B1 makes sense when you need to cut thick wood or acrylic regularly."
+                },
+                {
+                    "question": "Why do some LONGER models appear twice at different prices?",
+                    "answer": "The catalog lists several versions of the same model, for example the Nano 6W at $499 and $451.38, and the B1 at $859.99 and $716.26. The titles match, so check the product page for what each listing includes."
+                },
+                {
+                    "question": "Which software do they use?",
+                    "answer": "The Nano listing names LightBurn and LaserGRBL, plus an app. For the RAY5 and B1, check the product page for supported software before buying."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Choose by project size and cutting needs. The RAY5 10W is the sensible default, the 20W is the step up on the same platform, the Nano is for portability at a premium, and the B1 is for serious cutting. Before you buy, compare duplicate listings by price and confirm what is included."
+        }
+    ]
+}
