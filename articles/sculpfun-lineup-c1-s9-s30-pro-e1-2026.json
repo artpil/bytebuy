@@ -1,0 +1,160 @@
+{
+    "id": "sculpfun-lineup-c1-s9-s30-pro-e1",
+    "slug": "sculpfun-lineup-c1-s9-s30-pro-e1-2026",
+    "title": "SCULPFUN Lineup: C1, S9, S30 Pro and E1",
+    "metaDescription": "SCULPFUN laser engravers compared: the C1 6W mini, S9 5.5W, S30 Pro 10W with air assist and the enclosed dual-laser E1, with area, features and prices from $153 to $937.",
+    "template": "guide",
+    "date": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2024-04-08/SCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-524123-0.jpg",
+    "categories": [
+        "Tools & DIY",
+        "Buying Guide"
+    ],
+    "tags": [
+        "SCULPFUN",
+        "SCULPFUN S9",
+        "SCULPFUN S30 Pro",
+        "SCULPFUN E1",
+        "SCULPFUN C1",
+        "laser engraver"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "SCULPFUN's range is easiest to read as four steps up: the C1 is a pocket-size starter, the S9 is the proven mid-size diode laser, the S30 Pro adds higher power and automatic air assist, and the E1 is a different design altogether, an enclosed machine with a camera and two lasers. Prices run from $153.41 to $936.98, so the real question is which step matches your projects.",
+            "image": "https://img.gkbcdn.com/s3/p/2024-04-08/SCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-524123-0.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "The Four Steps Up",
+            "items": [
+                {
+                    "label": "C1 6W Mini ($153.41)",
+                    "value": "150x130 mm area, 0.06 mm spot, 10,000 mm/min, one-step installation, LightBurn and LaserGRBL compatible"
+                },
+                {
+                    "label": "S9 5.5W ($198.64)",
+                    "value": "410x420 mm area, 0.06 mm compressed spot, fixed focus, listing states 15 mm wood and 10 mm acrylic cutting"
+                },
+                {
+                    "label": "S30 Pro 10W ($499)",
+                    "value": "410x400 mm area expandable to 935x905 mm, automatic air assist, 32-bit board, replaceable lens, 0.06x0.08 mm focus"
+                },
+                {
+                    "label": "E1 12W+3W IR ($936.98)",
+                    "value": "Enclosed, 400x320 mm area, 600 mm/s CoreXY, HD camera, Class 1 safety, air assist; the 3W IR laser is a second module alongside the 12W diode"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "The C1 6W costs only $153.41 and is the easiest to set up, with a one-step installation",
+                "The S9 gives a 410x420 mm bed for $198.64, the best area per dollar in the range",
+                "The S30 Pro adds automatic air assist, which helps keep cuts clean, and its area can be expanded to 935x905 mm",
+                "The E1 is enclosed and lists Class 1 safety, which makes it the most suitable for a home or shared space",
+                "The E1's HD camera helps with positioning, and its second IR laser extends what it can mark"
+            ],
+            "cons": [
+                "The C1's 150x130 mm area limits project size",
+                "The S9 is fixed focus and has no air assist built in, so cuts can char more on thick material",
+                "The S30 Pro is open-frame, so you need your own eye protection, ventilation and, ideally, an enclosure",
+                "The E1 costs more than six times the C1, and its 400x320 mm area is smaller than the S9's",
+                "Expanding the S30 Pro to 935x905 mm needs extension parts that the listing does not include; check what is sold separately"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "SCULPFUN C1, S9, S30 Pro and E1",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-531651",
+                    "title": "SCULPFUN C1 6W Mini Laser Engraver, 0.06mm Precision Laser Spot, 150×130mm Working Area, 10000mm/min Speed, One-Step Installation, LightBurn & LaserGRBL Compatible, 100+ Material Support",
+                    "price": 153.41,
+                    "oldPrice": 199.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-06-23/SCULPFUN-C1-6W-Mini-Laser-Engraver-531651-0.jpg",
+                    "description": "SCULPFUN C1 6W mini laser engraver with a 0.06 mm spot, a 150x130 mm working area, 10,000 mm/min speed and LightBurn and LaserGRBL compatibility.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-C1-6W-Mini-Laser-Engraver-531651.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-481991",
+                    "title": "SCULPFUN S9 5.5W Laser Engraver, 0.06mm Ultra-Fine Compressed Spot, Diode Laser, 0.08mm High Precision, Cut 15mm Thick Wood 10mm Acrylic, Fixed Focus, Engraving Area 410*420mm",
+                    "price": 198.64,
+                    "oldPrice": 473.2,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-10-10/sculpfun-s9-laser-engraver-8d9c81-1728539928964.jpg",
+                    "description": "SCULPFUN S9 5.5W diode laser engraver with a 0.06 mm compressed spot, fixed focus and a 410x420 mm engraving area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSculpfun-S9-Laser-Engraver-481991.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-524123",
+                    "title": "SCULPFUN S30 Pro 10W Laser Engraver Cutter, Automatic Air-assist, 0.06*0.08mm Laser Focus, 32-bit Motherboard, Replaceable Lens, Engraving Size 410*400mm, Expandable to 935*905mm",
+                    "price": 499,
+                    "oldPrice": 612.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-04-08/SCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-524123-0.jpg",
+                    "description": "SCULPFUN S30 Pro 10W engraver cutter with automatic air assist, a 32-bit motherboard, a replaceable lens and a 410x400 mm area expandable to 935x905 mm.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-524123.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-531645",
+                    "title": "SCULPFUN E1 Dual 12W+3W IR Enclosed Laser Engraver, 400×320mm Working Area, 600mm/s CoreXY, HD Camera, Class 1 Safety, Air Assist",
+                    "price": 936.98,
+                    "oldPrice": 1199.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2026-06-18/SCULPFUN-E1-Dual-12W-3W-Enclosed-Laser-Engraver-531645-0.jpg",
+                    "description": "SCULPFUN E1 enclosed dual-laser engraver (12W + 3W IR) with a 400x320 mm area, CoreXY motion, an HD camera, Class 1 safety and air assist.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-E1-Dual-12W-3W-IR-Laser-Engraver-531645.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "Which SCULPFUN is best for a beginner?",
+                    "answer": "The S9 is the all-round starter with a large bed and a low price. The C1 is the cheapest, if your projects are small. Choose the E1 if safety and a closed work area matter more than price."
+                },
+                {
+                    "question": "Is the S30 Pro worth $300 more than the S9?",
+                    "answer": "If you cut regularly, yes: it has about twice the stated power and built-in air assist. For engraving only, the S9 does most of what you need."
+                },
+                {
+                    "question": "What does the E1's IR laser do?",
+                    "answer": "The E1 lists a 12W diode and a 3W infrared module. The listing does not detail materials for the IR laser, so check the product page to see what it is meant to mark."
+                },
+                {
+                    "question": "Do I need a rotary roller or laser bed?",
+                    "answer": "Only for specific jobs: a rotary roller for cylinders such as tumblers and a honeycomb bed for cleaner cuts. SCULPFUN also lists S9 and S30 Pro Max bundles that include them."
+                },
+                {
+                    "question": "What about the SCULPFUN C1 3W?",
+                    "answer": "The catalog also has a 3W C1 at $120.30, with a finer 0.04 mm spot. It is the same mini format with lower power."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Match the step to the work: the C1 for small marking, the S9 for a large bed on a budget, the S30 Pro for regular cutting, and the E1 when you want an enclosed, camera-guided machine. Whichever you pick, plan for eye protection and ventilation."
+        }
+    ]
+}
