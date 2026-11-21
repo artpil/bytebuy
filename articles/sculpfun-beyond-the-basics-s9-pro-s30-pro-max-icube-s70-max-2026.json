@@ -1,0 +1,181 @@
+{
+    "id": "sculpfun-beyond-the-basics-s9-pro-s30-pro-max-icube-s70-max",
+    "slug": "sculpfun-beyond-the-basics-s9-pro-s30-pro-max-icube-s70-max-2026",
+    "title": "SCULPFUN Beyond the Basics: S9 Pro, S30 Pro Max, iCube and S70 MAX",
+    "metaDescription": "Five SCULPFUN laser engravers beyond the entry level: iCube Pro Max, S9 Pro 10W, S30 Pro 10W, S30 Pro Max 20W and the 70W S70 MAX, with area, spot size, features and price from $220.72 to $1,654.34.",
+    "template": "guide",
+    "date": "2026-11-09",
+    "updatedAt": "2026-11-09",
+    "author": "ByteBuy Team",
+    "readingTime": 6,
+    "featuredImage": "https://img.gkbcdn.com/s3/p/2024-10-10/sculpfun-s30-pro-max-20w-laser-engraver-cutter-92d28e-1728539290232.jpg",
+    "categories": [
+        "Tools & DIY",
+        "Buying Guide"
+    ],
+    "tags": [
+        "SCULPFUN",
+        "SCULPFUN S9 Pro",
+        "SCULPFUN S30 Pro Max",
+        "SCULPFUN iCube",
+        "SCULPFUN S70 MAX",
+        "laser engraver"
+    ],
+    "sections": [
+        {
+            "type": "intro",
+            "content": "SCULPFUN's entry machines, the C1 and S9, are covered in our earlier lineup guide. This one looks at the step beyond: five machines that add power, features or size. They are the compact iCube Pro Max, the S9 Pro, the S30 Pro and S30 Pro Max with automatic air assist, and the 70W S70 MAX with an 830x800 mm area. Prices run from $220.72 to $1,654.34, and the right pick depends on whether you want more portability, more power or more area.",
+            "image": "https://img.gkbcdn.com/s3/p/2024-10-10/sculpfun-s30-pro-max-20w-laser-engraver-cutter-92d28e-1728539290232.jpg"
+        },
+        {
+            "type": "specs",
+            "title": "Five Machines Beyond the Basics",
+            "items": [
+                {
+                    "label": "iCube Pro Max 10W ($220.72)",
+                    "value": "120x120 mm area, 0.08 mm spot, 10,000 mm/min, smoke filter, temperature alarm, app connection, 32-bit board"
+                },
+                {
+                    "label": "S9 Pro 10W ($230.66)",
+                    "value": "400x410 mm area, 0.06 mm precision, stated 15 mm wood cut, LaserGRBL and LightBurn support"
+                },
+                {
+                    "label": "S30 Pro 10W ($297.97)",
+                    "value": "410x400 mm area expandable to 935x905 mm, automatic air assist, 0.06x0.08 mm focus, replaceable lens"
+                },
+                {
+                    "label": "S30 Pro Max 20W ($496.62)",
+                    "value": "Same frame and air assist as the S30 Pro with 20W and a 0.08x0.1 mm focus"
+                },
+                {
+                    "label": "S70 MAX 70W ($1,654.34)",
+                    "value": "830x800 mm area, 36,000 mm/min, 0.15x0.12 mm spot"
+                }
+            ]
+        },
+        {
+            "type": "pros-cons",
+            "pros": [
+                "The iCube Pro Max is the only enclosed-style compact machine here, with a smoke filter and a temperature alarm, at $220.72",
+                "The S9 Pro offers a 400x410 mm bed and a stated 15 mm wood cut for $230.66",
+                "The S30 Pro adds automatic air assist for $67 more than the S9 Pro, and its area can be expanded to 935x905 mm",
+                "The S30 Pro Max doubles the S30 Pro's power for about $199 more, on the same frame",
+                "The S70 MAX is by far the largest and fastest here, with 70W and an 830x800 mm bed"
+            ],
+            "cons": [
+                "The iCube's 120x120 mm area is small, so it suits tags, badges and small gifts, not boards",
+                "The S30 Pro Max has a larger focus spot (0.08x0.1 mm) than the S30 Pro (0.06x0.08 mm), so fine detail is slightly softer",
+                "The S70 MAX costs $1,654.34 and lists a 0.15x0.12 mm spot, the largest here, so it is built for cutting and large areas rather than fine detail",
+                "Expanding the S30 machines to 935x905 mm needs an extension kit that is sold separately",
+                "Several of these machines appear in bundles with rotary rollers or beds, so compare bundle contents before paying for extras twice"
+            ]
+        },
+        {
+            "type": "products-section",
+            "title": "SCULPFUN Beyond the Entry Level",
+            "storeId": null,
+            "storeLabel": null,
+            "products": [
+                {
+                    "id": "geekbuying-523482",
+                    "title": "SCULPFUN iCube Pro Max 10W Laser Engraver, 0.08mm Laser Spot, 10000mm/min Engraving Speed, 32-bit Motherboard, Replaceable Lens, Smoke Filter, Temperature Alarm, App Connection, 120x120mm",
+                    "price": 220.72,
+                    "oldPrice": 369,
+                    "image": "https://img.gkbcdn.com/s3/p/2023-12-07/Sculpfun-iCube-Pro-Max-10W-Laser-Engraver-EU-Plug-523018-0.jpg",
+                    "description": "SCULPFUN iCube Pro Max 10W compact laser engraver with a 0.08 mm spot, 10,000 mm/min speed, a smoke filter, a temperature alarm, app connection and a 120x120 mm area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-iCube-Pro-Max-10W-Laser-Engraver-523482.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-528374",
+                    "title": "SCULPFUN S9 Pro 10W Laser Engraver, 0.06mm High Precision, 15mm Wood Cutting, Support LaserGRBL/LightBurn, 400*410mm (15.7*16.2 inch)",
+                    "price": 230.66,
+                    "oldPrice": 299,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-04-08/SCULPFUN-S9-Pro-10W-Dual-Laser-Engraver-EU-Plug-528374-0.jpg",
+                    "description": "SCULPFUN S9 Pro 10W laser engraver with a 0.06 mm spot, a stated 15 mm wood cut, LaserGRBL and LightBurn support and a 400x410 mm area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-S9-Pro-10W-Laser-Engraver-528374.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-517374",
+                    "title": "SCULPFUN S30 Pro 10W Laser Engraver Cutter, Automatic Air-assist, 0.06*0.08mm Laser Focus, 32-bit Motherboard, Replaceable Lens, Engraving Size 410*400mm, Expandable to 935*905mm",
+                    "price": 297.97,
+                    "oldPrice": 529,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-10-10/sculpfun-s30-pro-10w-laser-engraver-cutter-e36f30-1728546861735.jpg",
+                    "description": "SCULPFUN S30 Pro 10W engraver cutter with automatic air assist, a 0.06x0.08 mm focus, a 32-bit board, a replaceable lens and a 410x400 mm area expandable to 935x905 mm.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-517374.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-517375",
+                    "title": "SCULPFUN S30 Pro Max 20W Laser Engraver Cutter, Automatic Air-assist, 0.08*0.1mm Laser Focus, 32-bit Motherboard, Replaceable Lens, Engraving Size 410*400mm, Expandable to 935*905mm",
+                    "price": 496.62,
+                    "oldPrice": 928.94,
+                    "image": "https://img.gkbcdn.com/s3/p/2024-10-10/sculpfun-s30-pro-max-20w-laser-engraver-cutter-92d28e-1728539290232.jpg",
+                    "description": "SCULPFUN S30 Pro Max 20W engraver cutter with automatic air assist, a 0.08x0.1 mm focus, a 32-bit board, a replaceable lens and a 410x400 mm area expandable to 935x905 mm.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-S30-Pro-Max-20W-Laser-Engraver-Cutter-517375.html",
+                    "source": "geekbuying"
+                },
+                {
+                    "id": "geekbuying-529031",
+                    "title": "SCULPFUN S70 MAX 70W Laser Engraver, 36,000mm/min Fast Speed, 0.15×0.12mm Laser Spot, 830*800mm",
+                    "price": 1654.34,
+                    "oldPrice": 1963.99,
+                    "image": "https://img.gkbcdn.com/s3/p/2025-06-03/sculpfun-s70-max-70w-laser-engraver-7e0151-1748918492812.jpg",
+                    "description": "SCULPFUN S70 MAX 70W laser engraver with 36,000 mm/min speed, a 0.15x0.12 mm spot and an 830x800 mm area.",
+                    "category": "Consumer Electronics",
+                    "vendor": "SCULPFUN",
+                    "currency": "USD",
+                    "affiliateLink": "https://bywiola.com/g/78tuvzaw8k46ff34476c0267b86f6e/?f_id=15502&ulp=https%3A%2F%2Fwww.geekbuying.com%2Fitem%2FSCULPFUN-S70-MAX-70W-Laser-Engraver-529031.html",
+                    "source": "geekbuying"
+                }
+            ]
+        },
+        {
+            "type": "faq",
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "question": "S9 Pro or S30 Pro?",
+                    "answer": "The S30 Pro adds automatic air assist and a bed that can be expanded to 935x905 mm for about $67 more. If you cut regularly or want room to grow, it is the better buy. If you mostly engrave on a 400 mm bed, the S9 Pro is enough."
+                },
+                {
+                    "question": "Is the 20W S30 Pro Max worth the extra $199?",
+                    "answer": "If you cut thicker wood or want fewer passes, yes. For engraving alone, the 10W S30 Pro does most of the same work and has a finer focus."
+                },
+                {
+                    "question": "Who is the iCube Pro Max for?",
+                    "answer": "People who want a small, low-maintenance machine for desk work, with a smoke filter, a temperature alarm and app control. It is not for large projects."
+                },
+                {
+                    "question": "Do I need a 70W laser?",
+                    "answer": "Only for large-format or production-style cutting. At $1,654.34 and with a large spot, it is overkill for engraving hobby projects."
+                },
+                {
+                    "question": "Can I add a rotary roller or bed?",
+                    "answer": "Yes. SCULPFUN sells the S9 Pro in a bundle with a rotary roller and an H44 laser bed at $352.06, and our accessories guide covers beds and rollers separately."
+                },
+                {
+                    "question": "What safety equipment do I need?",
+                    "answer": "Laser-rated eye protection, ventilation and constant supervision. A smoke filter or temperature alarm helps but does not replace them."
+                }
+            ]
+        },
+        {
+            "type": "conclusion",
+            "content": "Pick the step that matches your work: the iCube for small desk projects, the S9 Pro for a large bed on a budget, the S30 Pro for air-assisted cutting with room to expand, the S30 Pro Max for more power and the S70 MAX only for large-scale cutting. Check what a bundle includes before you add accessories separately."
+        }
+    ]
+}
